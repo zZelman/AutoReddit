@@ -1,0 +1,175 @@
+score=3386
+title=A Tennessee judge who ordered a baby's name changed from Messiah to Martin, saying the former was reserved for Jesus Christ, has been cited by a court panel for an inappropriate religious bias in violation of the state judicial code of conduct.
+subReddit=news
+url=http://news.yahoo.com/tennessee-judge-cited-ordering-babys-name-changed-messiah-031644146.html
+comments=http://www.reddit.com/r/news/comments/1p9fn1/a_tennessee_judge_who_ordered_a_babys_name/
+numComments=1305
+
+score=3307
+title=They didn't break character all night and proceeded to win two costume awards...
+subReddit=pics
+url=http://imgur.com/FZtApHg
+comments=http://www.reddit.com/r/pics/comments/1p9jh4/they_didnt_break_character_all_night_and/
+numComments=339
+
+score=3043
+title=I went to Niagara Fall with my family in the 90's sometime and this happened. My father took this photo. There wasn't much anyone could do.
+subReddit=WTF
+url=http://imgur.com/geNdIGg
+comments=http://www.reddit.com/r/WTF/comments/1p9j9v/i_went_to_niagara_fall_with_my_family_in_the_90s/
+numComments=1949
+
+score=2931
+title=Venom!
+subReddit=pics
+url=http://i.imgur.com/eb3HZH8.jpg
+comments=http://www.reddit.com/r/pics/comments/1p9wv2/venom/
+numComments=765
+
+score=2874
+title=Somebody waited their whole life for this moment...
+subReddit=funny
+url=http://imgur.com/hHfssOy
+comments=http://www.reddit.com/r/funny/comments/1p9hf4/somebody_waited_their_whole_life_for_this_moment/
+numComments=494
+
+score=2853
+title=I'm really lazy when it comes to putting on a costume
+subReddit=pics
+url=http://imgur.com/FbFcUOa
+comments=http://www.reddit.com/r/pics/comments/1p9x4x/im_really_lazy_when_it_comes_to_putting_on_a/
+numComments=410
+
+score=2843
+title=Current Gen/Next Gen NBA Screenshot Comparison
+subReddit=gaming
+url=http://media.operationsports.com/shots/1382639074-media.jpg
+comments=http://www.reddit.com/r/gaming/comments/1p9ngk/current_gennext_gen_nba_screenshot_comparison/
+numComments=894
+
+score=2828
+title=One of the best costumes I've seen
+subReddit=videos
+url=http://youtu.be/KEAS7U_mVt8
+comments=http://www.reddit.com/r/videos/comments/1p9p64/one_of_the_best_costumes_ive_seen/
+numComments=176
+
+score=2775
+title=I would totally get a fox
+subReddit=aww
+url=http://i.imgur.com/SX7kavT.gif
+comments=http://www.reddit.com/r/aww/comments/1p9r2q/i_would_totally_get_a_fox/
+numComments=336
+
+score=2745
+title=Why can't more people be this polite?
+subReddit=AdviceAnimals
+url=http://i.imgur.com/PZgxa1m.jpg
+comments=http://www.reddit.com/r/AdviceAnimals/comments/1p9m3e/why_cant_more_people_be_this_polite/
+numComments=644
+
+score=2698
+title=TIL Paul McCartney dreamed the melody of &quot;Yesterday&quot; one night and immediately wrote the music the next morning. He then looked around for a month to find out whether he did not subconsciously plagiarize it from someone else.
+subReddit=todayilearned
+url=http://en.wikipedia.org/wiki/Yesterday#Origins
+comments=http://www.reddit.com/r/todayilearned/comments/1p9kxr/til_paul_mccartney_dreamed_the_melody_of/
+numComments=619
+
+score=2657
+title=R.I.P Marcia Wallace, voice actor of Edna Krabappel from the Simpsons
+subReddit=funny
+url=http://obscureinternet.com/wp-content/uploads/Edna-Krabappel-The-Simpsons.jpg
+comments=http://www.reddit.com/r/funny/comments/1p9nd2/rip_marcia_wallace_voice_actor_of_edna_krabappel/
+numComments=472
+
+score=2519
+title=You just came to the cutest neighborhood
+subReddit=aww
+url=http://i.imgur.com/LOu9o.jpg
+comments=http://www.reddit.com/r/aww/comments/1p9hbf/you_just_came_to_the_cutest_neighborhood/
+numComments=52
+
+score=2504
+title=Freeway jam is good, but this feels better
+subReddit=funny
+url=http://i.imgur.com/lwnsUJs.jpg
+comments=http://www.reddit.com/r/funny/comments/1p9sa1/freeway_jam_is_good_but_this_feels_better/
+numComments=98
+
+score=2275
+title=Daughter's Costume
+subReddit=funny
+url=http://imgur.com/PtTDArb
+comments=http://www.reddit.com/r/funny/comments/1p9lgp/daughters_costume/
+numComments=55
+
+score=2257
+title=The newest in pet treat innovation....
+subReddit=funny
+url=http://i.imgur.com/MJazGpZ.jpg
+comments=http://www.reddit.com/r/funny/comments/1p9l9b/the_newest_in_pet_treat_innovation/
+numComments=84
+
+score=2238
+title=Credit where credit is due, Troy Baker has been doing an excellent job this year.
+subReddit=gaming
+url=http://i.imgur.com/d4snFVK.png
+comments=http://www.reddit.com/r/gaming/comments/1p9rqx/credit_where_credit_is_due_troy_baker_has_been/
+numComments=294
+
+score=2225
+title=Clingy
+subReddit=funny
+url=http://i.imgur.com/ehzCCOb.gif
+comments=http://www.reddit.com/r/funny/comments/1p9rez/clingy/
+numComments=86
+
+score=2221
+title=My 6 year old insisted I dress like an 80s rock star.
+subReddit=funny
+url=http://i.imgur.com/Ndv1fw3.jpg
+comments=http://www.reddit.com/r/funny/comments/1p9o3k/my_6_year_old_insisted_i_dress_like_an_80s_rock/
+numComments=112
+
+score=1965
+title=May make me unpopular with the other women..
+subReddit=AdviceAnimals
+url=http://i.imgur.com/dsVih9P.jpg
+comments=http://www.reddit.com/r/AdviceAnimals/comments/1p9u49/may_make_me_unpopular_with_the_other_women/
+numComments=765
+
+score=1739
+title=A Texan's perception of the United States
+subReddit=funny
+url=http://i.imgur.com/k40gx3D.jpg
+comments=http://www.reddit.com/r/funny/comments/1p9vcl/a_texans_perception_of_the_united_states/
+numComments=226
+
+score=1614
+title=After all these years, Microsoft?
+subReddit=AdviceAnimals
+url=http://i.imgur.com/zkmbRT6.png
+comments=http://www.reddit.com/r/AdviceAnimals/comments/1pa1vl/after_all_these_years_microsoft/
+numComments=71
+
+score=1579
+title=That pug tho.
+subReddit=gifs
+url=http://s3-ec.buzzfed.com/static/enhanced/webdr02/2012/12/15/17/anigif_enhanced-buzz-1751-1355608914-1.gif
+comments=http://www.reddit.com/r/gifs/comments/1p9t90/that_pug_tho/
+numComments=29
+
+score=1391
+title=&quot;Ionia: The Blood Moon&quot; - League of Legends Fight Animation
+subReddit=leagueoflegends
+url=http://www.reddit.com/r/leagueoflegends/comments/1p9wwh/ionia_the_blood_moon_league_of_legends_fight/
+comments=http://www.reddit.com/r/leagueoflegends/comments/1p9wwh/ionia_the_blood_moon_league_of_legends_fight/
+numComments=217
+
+score=1126
+title=My biggest fear
+subReddit=WTF
+url=http://imgur.com/AU2Mmon
+comments=http://www.reddit.com/r/WTF/comments/1pa146/my_biggest_fear/
+numComments=162
+
