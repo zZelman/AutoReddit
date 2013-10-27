@@ -1,3 +1,4 @@
+package Downloader;
 import java.io.PrintWriter;
 import java.util.Arrays;
 
@@ -14,14 +15,22 @@ public class Post implements Comparable<Post>
 	public String 	commentsLink;	// link to the comments on this post
 	public int 		numComments;	// number of comments on this post
 
+	// file format flags
+	public static final String scoreFlag 		= "score=";
+	public static final String titleFlag 		= "title=";
+	public static final String subRedditFlag 	= "subReddit=";
+	public static final String urlFlag 			= "url=";
+	public static final String commentsFlag 	= "comments=";
+	public static final String numCommentsFlag 	= "numComments=";
 
-	Post() {}
+
+	public Post() {}
 
 
-	Post(int score,
-	     String url, String title,
-	     String subReddit,
-	     String commentsLink, int numComments)
+	public Post(int score,
+	            String url, String title,
+	            String subReddit,
+	            String commentsLink, int numComments)
 	{
 		this.score 			= score;
 		this.url 			= url;
@@ -82,12 +91,12 @@ public class Post implements Comparable<Post>
 
 	public void writeToFile(PrintWriter out)
 	{
-		String score 		= "score=" + this.score + "\n";
-		String title		= "title=" + this.title + "\n";
-		String subReddit	= "subReddit=" + this.subReddit + "\n";
-		String url			= "url=" + this.url + "\n";
-		String commentsLink = "comments=" + this.commentsLink + "\n";
-		String numComments 	= "numComments=" + this.numComments + "\n";
+		String score 		= scoreFlag			+ this.score + "\n";
+		String title		= titleFlag			+ this.title + "\n";
+		String subReddit	= subRedditFlag		+ this.subReddit + "\n";
+		String url			= urlFlag 			+ this.url + "\n";
+		String commentsLink = commentsFlag 		+ this.commentsLink + "\n";
+		String numComments 	= numCommentsFlag 	+ this.numComments + "\n";
 
 		out.println(score + title + subReddit + url + commentsLink + numComments);
 	}

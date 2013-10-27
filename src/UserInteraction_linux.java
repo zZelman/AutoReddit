@@ -2,6 +2,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import Downloader.Post;
+
 
 
 // * this class becomes an object after reddit has been searched many times

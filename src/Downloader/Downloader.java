@@ -1,3 +1,6 @@
+package Downloader;
+
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -8,8 +11,10 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.*;
 
 
-public class Main
+public class Downloader
 {
+	public static final String fileOutputName = "downloaded posts.txt";
+
 	// * list of SORTED not seen posts from the requested reddit url
 	// * class Post sorts by score
 	private ArrayList<Post> notSeenPosts;
@@ -54,7 +59,7 @@ public class Main
 	private char commentNum_End = ' ';
 
 
-	Main(String url, double minDelay, int maxSearchTimes, int searchNum)
+	Downloader(String url, double minDelay, int maxSearchTimes, int searchNum)
 	{
 		notSeenPosts 			= new ArrayList<Post>();
 		pageURL 				= url;
@@ -76,6 +81,10 @@ public class Main
 				Document d = Jsoup.connect(pageURL).get();
 				htmlString = d.outerHtml();
 				isNotDownloaded = false; // you just downloaded it
+
+				// debug save the file
+				PrintWriter out = new PrintWriter("downloaded reddit.html");
+				out.print(htmlString);
 			}
 			catch (Exception e)
 			{
@@ -117,26 +126,58 @@ public class Main
 					String numComments = findInformation(currentSearchPos,
 					                                     commentNum_Begin, commentNum_End);
 
-					Post p;
+					// * prossessedScore and prossessedNumComments are nessisary just in case
+					//		the post is new and Reddit has not posted the values in the html doc
+					// * this is taken into account in the .equals(other) method below
+					//		jist: if it is the same, but the other is higher, update the data
+
+					int prossessedScore = 0;
 					try
 					{
-						p = new Post(Integer.parseInt(score), url, title,
-						             subReddit, comments,
-						             Integer.parseInt(numComments));
+						prossessedScore = Integer.parseInt(score);
 					}
 					catch (NumberFormatException e)
 					{
-						System.out.println(">>> Number Error");
-						System.out.println();
-						continue;
+						prossessedScore = 0;
 					}
+
+					int prossessedNumComments = 0;
+					try
+					{
+						prossessedNumComments = Integer.parseInt(numComments);
+					}
+					catch (NumberFormatException e)
+					{
+						prossessedNumComments = 0;
+					}
+
+					Post p = new Post(prossessedScore, url, title,
+					                  subReddit, comments,
+					                  prossessedNumComments);
 
 					boolean shouldAdd = true;
 					for (int i = 0; i < notSeenPosts.size(); i++)
 					{
+						Post tempPost = notSeenPosts.get(i);
+
 						// if the post exists at all in notSeenPosts, don't add it
-						if (notSeenPosts.get(i).equals(p))
+						if (tempPost.equals(p))
 						{
+							// these two if statements exist because this is the minimum second time
+							//		that this bot has seen the post. Therefore, you check to see if the
+							// 		score or numComments are greater in the one just seen than the one
+							//		that you have, if yes, update them.
+
+							if (p.score > tempPost.score)
+							{
+								tempPost.score = p.score;
+							}
+
+							if (p.numComments > tempPost.numComments)
+							{
+								tempPost.numComments = p.numComments;
+							}
+
 							shouldAdd = false;
 							break;
 						}
@@ -162,10 +203,7 @@ public class Main
 			}
 
 		}
-//		printNotSeen();
-		writeNotSeenToFile();
-
-		new UserInteraction_linux(notSeenPosts);
+		writeToFile();
 
 	}
 
@@ -220,7 +258,7 @@ public class Main
 	}
 
 
-	public void printNotSeen()
+	public void printArrayList()
 	{
 		for (int i = 0; i < notSeenPosts.size(); i++)
 		{
@@ -229,12 +267,25 @@ public class Main
 	}
 
 
-	public void writeNotSeenToFile()
+	public void writeToFile()
 	{
-		String fileName = "notSeen.txt";
+		File f = new File(fileOutputName);
+		if (!f.exists())
+		{
+			try
+			{
+				f.createNewFile();
+			}
+			catch (IOException e)
+			{
+				System.out.println("Could not create: " + fileOutputName);
+				return;
+			}
+		}
+
 		try
 		{
-			PrintWriter out = new PrintWriter(fileName);
+			PrintWriter out = new PrintWriter(fileOutputName);
 			for (int i = 0; i < notSeenPosts.size(); i++)
 			{
 				notSeenPosts.get(i).writeToFile(out);;
@@ -243,12 +294,12 @@ public class Main
 		}
 		catch (FileNotFoundException e)
 		{
-			System.out.println("File Not Found: " + fileName);
+			System.out.println("File Not Found: " + fileOutputName);
 		}
 	}
 
 
-	public static void main(String[] args) throws IOException
+	public static void main(String[] args)
 	{
 		if (args.length != 4)
 		{
@@ -298,7 +349,7 @@ public class Main
 			return;
 		}
 
-		new Main(url, minDelay, maxSearchTimes, searchNum);
+		new Downloader(url, minDelay, maxSearchTimes, searchNum);
 
 	}
 
