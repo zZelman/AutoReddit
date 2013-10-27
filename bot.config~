@@ -1,0 +1,43 @@
+// This is the config file read by the bot before each start
+// Lines that start with "//", and ones that are empty will be ignored
+
+
+// WHAT YOU CAN DO
+// ===============
+// Change the values after the "="
+
+
+// WHAT YOU CAN NOT DO
+// ===================
+// Eddit what is before the "=". 
+// Put a space after the "=" before your data
+//     eg: "reddit url= http://www.reddit.com/" is not acceptable
+
+
+// reddit url to search.
+// REQUIREMENT(s): * url must be directly a subreddit page, no comment pages (because this is a reddit bot)
+// TIP: if you want to search multiple subreddits, just create a multi subreddit and use that url
+// 	for those who do not know how to, you just do "http://www.reddit.com/r/[subreddit 1]+[subreddit 2]+[etc]/"
+reddit url=http://www.reddit.com/r/all/
+
+
+// time between now and when you want to look at what this bot has found
+// REQUIREMENT(s): * > 0 value (no negitives aswell)
+// 		   * mesured in mins (accepts decimal answers for seconds if you real want to...)
+// TIP: 1 hour is 60 mins
+total time available=60
+
+
+// the time delay between each search of the "reddit url"
+// REQUIREMENT(s): * > 0 value (no negitives aswell)
+// 		   * mesured in mins (accepts decimal answers for seconds if you real want to...)
+time between searches=10
+
+
+// number of uniqe posts to add to the growing list of posts at each search cycle
+// REQUIREMENT(s): * > 0 value (no negitives aswell)
+// TIP: You can enter in any value you wish here, but if you enter in too high of a number,
+// 	you might just break the bot. You can if you wish, but dont come crying to me when your
+//	sweet reddit content is missing
+uniqe posts to add at each search=10
+

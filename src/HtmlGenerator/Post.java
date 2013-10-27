@@ -1,4 +1,4 @@
-package Downloader;
+package HtmlGenerator;
 import java.io.PrintWriter;
 import java.util.Arrays;
 

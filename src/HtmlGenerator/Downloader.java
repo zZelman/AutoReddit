@@ -1,4 +1,4 @@
-package Downloader;
+package HtmlGenerator;
 
 import java.io.File;
 import java.io.FileNotFoundException;

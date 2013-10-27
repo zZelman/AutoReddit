@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-import Downloader.Post;
+import Parsers.ConfigParser;
 
 
 // This class produces a html file from the downloaded and sorted posts from Downloader
@@ -200,7 +200,22 @@ public class HtmlGenerator
 
 	public static void main(String[] args)
 	{
-		new HtmlGenerator(Downloader.Downloader.fileOutputName);
+		try
+		{
+			String url = ConfigParser.findURL(ConfigParser.configFileName);
+			double totalTime = ConfigParser.findTotalTime(ConfigParser.configFileName);
+			double searchInterval = ConfigParser.findSearchInterval(ConfigParser.configFileName);
+			int numPosts = ConfigParser.findNumPostAdd(ConfigParser.configFileName);
+
+			System.out.println(url + "\n" + totalTime + "\n" + searchInterval + "\n" + numPosts);
+		}
+		catch (FileNotFoundException e)
+		{
+			System.out.println("Cannot find file: " + ConfigParser.configFileName);
+			System.exit(-1);
+		}
+
+//		new HtmlGenerator(Downloader.Downloader.fileOutputName);
 	}
 
 }
