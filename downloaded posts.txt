@@ -1,1400 +1,700 @@
-score=147
-title=RAM's wife Amelia recently passed away. His recent set at Grotesque was dedicated to her. It is absolutely beautiful. The first track is entitled RAMelia...
-subReddit=
-url=https://soundcloud.com/tomorrowworld2013/ram-live-at-grotesque-indoor-festival-rotterdam-netherlands-19-10-2013-razorator
-comments=http://www.reddit.com/r/trance/comments/1p3nn0/rams_wife_amelia_recently_passed_away_his_recent/
-numComments=32
+score=3440
+title=I taped a flashlight to my chest and stood very still during a long exposure
+subReddit=pics
+url=http://www.flickr.com/photos/denniscalvert/10478625293/sizes/l/
+comments=http://www.reddit.com/r/pics/comments/1pcj8s/i_taped_a_flashlight_to_my_chest_and_stood_very/
+numComments=550
 
-score=120
-title=Armin van Buuren A State of Trance Episode 001-499 : Armin van Buuren : Free Download &amp; Streaming : Internet Archive
-subReddit=
-url=https://archive.org/details/Armin_van_Buuren_A_State_of_Trance_001-499
-comments=http://www.reddit.com/r/trance/comments/1p9i0n/armin_van_buuren_a_state_of_trance_episode_001499/
-numComments=38
+score=3188
+title=Guide Dog in training!
+subReddit=aww
+url=http://i.imgur.com/6G0JhxF.jpg
+comments=http://www.reddit.com/r/aww/comments/1pcawk/guide_dog_in_training/
+numComments=314
 
-score=102
-title=Ti&euml;sto feat. Disco Fries – iTrance [2013] What do you guys think?
-subReddit=
-url=https://soundcloud.com/tiesto_official/tiesto-feat-disco-fries-itrance
-comments=http://www.reddit.com/r/trance/comments/1ouirr/ti&euml;sto_feat_disco_fries_itrance_2013_what_do_you/
+score=3147
+title=I'm currently running for Mayor of Miami Beach against a near billionaire and a career politician and I'm making a documentary about the dirty political process, and the election is in 9 days.
+subReddit=IAmA
+url=http://www.reddit.com/r/IAmA/comments/1pd095/im_currently_running_for_mayor_of_miami_beach/
+comments=http://www.reddit.com/r/IAmA/comments/1pd095/im_currently_running_for_mayor_of_miami_beach/
+numComments=2446
+
+score=3107
+title=I got to hold a copy of the &quot;Felina&quot; screenplay yesterday. Here's the very last page.
+subReddit=breakingbad
+url=http://imgur.com/ZkiNrv2
+comments=http://www.reddit.com/r/breakingbad/comments/1pcill/i_got_to_hold_a_copy_of_the_felina_screenplay/
+numComments=316
+
+score=3025
+title=Lightning struck this tree and now it's burning from the inside.
+subReddit=pics
+url=http://i.imgur.com/U8MrqEG.jpg
+comments=http://www.reddit.com/r/pics/comments/1pcpsp/lightning_struck_this_tree_and_now_its_burning/
+numComments=185
+
+score=2982
+title=Took this picture the other morning on my way to work. Sunrise with thick fog made downtown LA look like it was on fire.
+subReddit=pics
+url=http://imgur.com/f1H2GnZ
+comments=http://www.reddit.com/r/pics/comments/1pcwn7/took_this_picture_the_other_morning_on_my_way_to/
+numComments=130
+
+score=2921
+title=Reduce working week to 30 hours, say economists
+subReddit=worldnews
+url=http://www.telegraph.co.uk/finance/jobs/10316850/Reduce-working-week-to-30-hours-say-economists.html
+comments=http://www.reddit.com/r/worldnews/comments/1pcpnz/reduce_working_week_to_30_hours_say_economists/
+numComments=2273
+
+score=2869
+title=500 year old Da Vinci Mural Discovered Under Layers Of Paint During Castle Restoration In Italy
+subReddit=worldnews
+url=http://www.huffingtonpost.com/2013/10/24/leonardo-da-vinci-mural-sforza-castle-restoration_n_4157965.html
+comments=http://www.reddit.com/r/worldnews/comments/1pcbc9/500_year_old_da_vinci_mural_discovered_under/
+numComments=312
+
+score=2865
+title=I'm 6'7&quot; and went to visit my short in-laws today.
+subReddit=funny
+url=http://i.imgur.com/ulANVS0.jpg
+comments=http://www.reddit.com/r/funny/comments/1pcx5x/im_67_and_went_to_visit_my_short_inlaws_today/
+numComments=1078
+
+score=2832
+title=She shall be missed...
+subReddit=pics
+url=http://i.imgur.com/XtdxUk8.png
+comments=http://www.reddit.com/r/pics/comments/1pd6o4/she_shall_be_missed/
+numComments=802
+
+score=2808
+title=The reflection of this bartender is a little too perfect...
+subReddit=pics
+url=http://i.imgur.com/Cplz50K.jpg
+comments=http://www.reddit.com/r/pics/comments/1pcnyc/the_reflection_of_this_bartender_is_a_little_too/
+numComments=69
+
+score=2799
+title=Pen exploded in pocket earlier... now lighter only burns like this.
+subReddit=mildlyinteresting
+url=http://i.imgur.com/ZLh24lY.jpg
+comments=http://www.reddit.com/r/mildlyinteresting/comments/1pcdac/pen_exploded_in_pocket_earlier_now_lighter_only/
+numComments=1515
+
+score=2777
+title=1996 Toys 'R' Us Video Game Ads
+subReddit=gaming
+url=http://imgur.com/a/WeRBe
+comments=http://www.reddit.com/r/gaming/comments/1pc9c7/1996_toys_r_us_video_game_ads/
+numComments=1941
+
+score=2738
+title=Saw this wax figure of Bill Clinton in China. I can't quite put my finger on it, but something just seems a bit off...
+subReddit=funny
+url=http://imgur.com/Id9ViXf
+comments=http://www.reddit.com/r/funny/comments/1pc89y/saw_this_wax_figure_of_bill_clinton_in_china_i/
+numComments=313
+
+score=2736
+title=I thought this guy was a wack job when I first heard the story, but...
+subReddit=Unexpected
+url=http://i.imgur.com/9uPaK2b.jpg
+comments=http://www.reddit.com/r/Unexpected/comments/1pcsyb/i_thought_this_guy_was_a_wack_job_when_i_first/
+numComments=327
+
+score=2730
+title=I was bored. My parent have chickens. I apologise for nothing.
+subReddit=pics
+url=http://i.imgur.com/0hvcYki.jpg
+comments=http://www.reddit.com/r/pics/comments/1pc8js/i_was_bored_my_parent_have_chickens_i_apologise/
+numComments=1027
+
+score=2706
+title=TIL where not to put a cactus...
+subReddit=funny
+url=http://i.imgur.com/UW0qiuj.jpg
+comments=http://www.reddit.com/r/funny/comments/1pcnyv/til_where_not_to_put_a_cactus/
+numComments=451
+
+score=2700
+title=Norwegian cats are so fluffy and awesome.
+subReddit=aww
+url=http://i.imgur.com/BO5q59o.jpg
+comments=http://www.reddit.com/r/aww/comments/1pcnis/norwegian_cats_are_so_fluffy_and_awesome/
+numComments=245
+
+score=2641
+title=Portraits I've drawn for a few redditors over the past couple months
+subReddit=pics
+url=http://i.imgur.com/lPa1Y2k.jpg?1
+comments=http://www.reddit.com/r/pics/comments/1pcmov/portraits_ive_drawn_for_a_few_redditors_over_the/
+numComments=348
+
+score=2625
+title=My friend built a 16 ft tall Jurassic Park gate for his Halloween party. It was epic.
+subReddit=pics
+url=http://i.imgur.com/DgzDuC6.jpg?1
+comments=http://www.reddit.com/r/pics/comments/1pcp2j/my_friend_built_a_16_ft_tall_jurassic_park_gate/
+numComments=133
+
+score=2623
+title=Friend at a party dressed up as Tobias Funke from Arrested Development
+subReddit=pics
+url=http://imgur.com/m0btIrJ
+comments=http://www.reddit.com/r/pics/comments/1pci96/friend_at_a_party_dressed_up_as_tobias_funke_from/
+numComments=119
+
+score=2618
+title=Actually made me say &quot;what the fuck.&quot; Nothing justifies releasing a $0.99 cent game for $40 on consoles. Absolutely nothing.
+subReddit=gaming
+url=http://i.imgur.com/uJvJidV.jpg
+comments=http://www.reddit.com/r/gaming/comments/1pckma/actually_made_me_say_what_the_fuck_nothing/
+numComments=1923
+
+score=2609
+title=An old Kodak camera running Doom (source in comments)
+subReddit=gaming
+url=http://i.imgur.com/67GIeOq.jpg
+comments=http://www.reddit.com/r/gaming/comments/1pcb7j/an_old_kodak_camera_running_doom_source_in/
+numComments=289
+
+score=2592
+title=My Halloween costume
+subReddit=funny
+url=http://i.imgur.com/LrMxZnz.jpg
+comments=http://www.reddit.com/r/funny/comments/1pd8cc/my_halloween_costume/
+numComments=807
+
+score=2582
+title=Went as Van Gogh for a Halloween party.
+subReddit=pics
+url=http://imgur.com/1emsY9a
+comments=http://www.reddit.com/r/pics/comments/1pclp0/went_as_van_gogh_for_a_halloween_party/
+numComments=239
+
+score=2567
+title=My hen laid a Corkscrew chicken egg
+subReddit=WTF
+url=http://imgur.com/UAckpEG
+comments=http://www.reddit.com/r/WTF/comments/1pcgeq/my_hen_laid_a_corkscrew_chicken_egg/
+numComments=1136
+
+score=2555
+title=An embarrassing moment we've all had...
+subReddit=comics
+url=http://embarrassingcomics.tumblr.com/post/65299182374
+comments=http://www.reddit.com/r/comics/comments/1pcvyk/an_embarrassing_moment_weve_all_had/
+numComments=191
+
+score=2552
+title=In.
+subReddit=gifs
+url=http://imgur.com/zE2ueuL
+comments=http://www.reddit.com/r/gifs/comments/1pcmg7/in/
+numComments=242
+
+score=2541
+title=Graduated from puppy class. He is fucking proud of himself.
+subReddit=aww
+url=http://imgur.com/J7Emy1B
+comments=http://www.reddit.com/r/aww/comments/1pctmu/graduated_from_puppy_class_he_is_fucking_proud_of/
+numComments=149
+
+score=2540
+title=So I was Kim Jong Un for Halloween
+subReddit=pics
+url=http://imgur.com/a/usnAh
+comments=http://www.reddit.com/r/pics/comments/1pczue/so_i_was_kim_jong_un_for_halloween/
+numComments=406
+
+score=2519
+title=Football Sunday at Costco
+subReddit=funny
+url=http://i.imgur.com/fMIBE5e.jpg
+comments=http://www.reddit.com/r/funny/comments/1pcf62/football_sunday_at_costco/
+numComments=303
+
+score=2501
+title=My first business cards!
+subReddit=funny
+url=http://i.imgur.com/z32W3YC.jpg
+comments=http://www.reddit.com/r/funny/comments/1pceq4/my_first_business_cards/
+numComments=503
+
+score=2460
+title=Here is the reason why kidney stones are so painful(One under a microscope)
+subReddit=WTF
+url=http://i.imgur.com/NzkRlWc.jpg
+comments=http://www.reddit.com/r/WTF/comments/1pcyjz/here_is_the_reason_why_kidney_stones_are_so/
+numComments=355
+
+score=2452
+title=The correct way to eat a pomegranate
+subReddit=videos
+url=http://youtu.be/1iHbSzM63Hs
+comments=http://www.reddit.com/r/videos/comments/1pc9pa/the_correct_way_to_eat_a_pomegranate/
+numComments=1314
+
+score=2437
+title=I'm hitting new lows
+subReddit=AdviceAnimals
+url=http://i.imgur.com/BBQzsYx.jpg
+comments=http://www.reddit.com/r/AdviceAnimals/comments/1pcuq1/im_hitting_new_lows/
+numComments=664
+
+score=2427
+title=I thought i looked badass until someone said &quot;i like turtles&quot;
+subReddit=pics
+url=http://imgur.com/YuL6do7
+comments=http://www.reddit.com/r/pics/comments/1pcc89/i_thought_i_looked_badass_until_someone_said_i/
+numComments=125
+
+score=2410
+title=Thank You, Random Guy at the Gym
+subReddit=AdviceAnimals
+url=http://www.livememe.com/7uqpv1d
+comments=http://www.reddit.com/r/AdviceAnimals/comments/1pcryn/thank_you_random_guy_at_the_gym/
+numComments=163
+
+score=2404
+title=So this guy pulls up next to me at a red light and yells &quot;15 PERCENT OR MORE!&quot; at me and speeds off.
+subReddit=funny
+url=http://imgur.com/lJK2elc
+comments=http://www.reddit.com/r/funny/comments/1pcgbd/so_this_guy_pulls_up_next_to_me_at_a_red_light/
+numComments=346
+
+score=2389
+title=Interested in learning Android? Let us save you a couple hundred hours. Here's our attempt at High-quality Open-source Android &quot;Cliffnotes&quot;
+subReddit=Android
+url=https://github.com/thecodepath/android_guides/wiki
+comments=http://www.reddit.com/r/Android/comments/1pcgw4/interested_in_learning_android_let_us_save_you_a/
+numComments=129
+
+score=2380
+title=Well that's the worst happy face I've ever seen.
+subReddit=funny
+url=http://i.imgur.com/zYjXuIE.jpg
+comments=http://www.reddit.com/r/funny/comments/1pcf2n/well_thats_the_worst_happy_face_ive_ever_seen/
+numComments=111
+
+score=2352
+title=Well, shit...
+subReddit=AdviceAnimals
+url=http://imgur.com/gsWwNrG
+comments=http://www.reddit.com/r/AdviceAnimals/comments/1pcjpv/well_shit/
+numComments=75
+
+score=2347
+title=My sister bought her cat a batman costume. I couldn't resist the photo opportunity!
+subReddit=aww
+url=http://i.imgur.com/jrYX8d8.jpg
+comments=http://www.reddit.com/r/aww/comments/1pccyu/my_sister_bought_her_cat_a_batman_costume_i/
+numComments=54
+
+score=2335
+title=Anon makes a trip to Subway
+subReddit=4chan
+url=http://imgur.com/a/wyyb7
+comments=http://www.reddit.com/r/4chan/comments/1pcmzx/anon_makes_a_trip_to_subway/
+numComments=203
+
+score=2324
+title=Meet my friend: Iron Chef America
+subReddit=funny
+url=http://imgur.com/StnIqZv
+comments=http://www.reddit.com/r/funny/comments/1pd0m5/meet_my_friend_iron_chef_america/
+numComments=68
+
+score=2321
+title=TIL that Target (yes, that Target) runs a state of the art crime lab, one of only twelve accredited private labs in the world, on its corporate campus in Minnesota. It often provides outside assistance to law enforcement at no charge and has been involved in a number of high profile cases.
+subReddit=todayilearned
+url=http://minnesota.publicradio.org/display/web/2011/10/21/target-forensics-lab
+comments=http://www.reddit.com/r/todayilearned/comments/1pdeob/til_that_target_yes_that_target_runs_a_state_of/
+numComments=334
+
+score=2262
+title=My English teacher told us to dress comfortably for an exam, needless to say this kid knows comfort
+subReddit=funny
+url=http://imgur.com/gAjQNgv
+comments=http://www.reddit.com/r/funny/comments/1pchh1/my_english_teacher_told_us_to_dress_comfortably/
+numComments=95
+
+score=2249
+title=Hong Kong
+subReddit=woahdude
+url=http://i.imgur.com/kxGlVRL.jpg
+comments=http://www.reddit.com/r/woahdude/comments/1pdgli/hong_kong/
 numComments=101
 
-score=81
-title=Hey r/trance, I'm Adam Ellis. AMA
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1oqctu/hey_rtrance_im_adam_ellis_ama/
-comments=http://www.reddit.com/r/trance/comments/1oqctu/hey_rtrance_im_adam_ellis_ama/
-numComments=78
+score=2241
+title=Humans are weird.
+subReddit=wheredidthesodago
+url=http://i.imgur.com/teFmXLr.gif
+comments=http://www.reddit.com/r/wheredidthesodago/comments/1pd02r/humans_are_weird/
+numComments=58
 
-score=58
-title=RAM feat. Susana - RAMelia (Dedicated to RAM's wife who passed away, RIP)
-subReddit=
-url=http://www.youtube.com/embed/E0MhTjbnaGk?wmode=transparent
-comments=http://www.reddit.com/r/trance/comments/1p3itc/ram_feat_susana_ramelia_dedicated_to_rams_wife/
-numComments=8
+score=2204
+title=Star Wars Blooper Reel with previously unseen outtakes.
+subReddit=movies
+url=http://www.youtube.com/watch?v=OgLl0_mqLtc
+comments=http://www.reddit.com/r/movies/comments/1pct6b/star_wars_blooper_reel_with_previously_unseen/
+numComments=253
 
-score=58
-title=Dash Berlin - Never Cry Again (original mix) The song that got me into electronic music 3 years ago
-subReddit=
-url=http://www.youtube.com/watch?v=rL_BWQDRbJI
-comments=http://www.reddit.com/r/trance/comments/1orxhm/dash_berlin_never_cry_again_original_mix_the_song/
-numComments=11
+score=2192
+title=My homemade Two-face costume..
+subReddit=pics
+url=http://i.imgur.com/RVyM6w9.jpg
+comments=http://www.reddit.com/r/pics/comments/1pci44/my_homemade_twoface_costume/
+numComments=126
 
-score=48
-title=York - Reachers Of Civilisation [2001]
-subReddit=
-url=http://www.youtube.com/watch?v=INaqvTWOu08
-comments=http://www.reddit.com/r/trance/comments/1p0y6x/york_reachers_of_civilisation_2001/
-numComments=11
+score=2189
+title=If you're going to do a Mario Bros costume, don't half-ass it
+subReddit=funny
+url=http://i.imgur.com/ZXHMBws.jpg
+comments=http://www.reddit.com/r/funny/comments/1pcyaz/if_youre_going_to_do_a_mario_bros_costume_dont/
+numComments=51
 
-score=47
-title=Super8 &amp; Tab - Helsinki Scorchin' [2006]
-subReddit=
-url=http://www.youtube.com/watch?v=2sDvoKdE1zU
-comments=http://www.reddit.com/r/trance/comments/1ov34h/super8_tab_helsinki_scorchin_2006/
-numComments=15
+score=2179
+title=The one and only explanation.
+subReddit=funny
+url=http://i.imgur.com/9CJuDge.jpg
+comments=http://www.reddit.com/r/funny/comments/1pcxaf/the_one_and_only_explanation/
+numComments=26
 
-score=38
-title=Heatbeat - Chow Mein
-subReddit=
-url=https://www.youtube.com/watch?v=Wcm_XvgLbzE
-comments=http://www.reddit.com/r/trance/comments/1p4oel/heatbeat_chow_mein/
-numComments=1
+score=2166
+title=Jump The Stairs
+subReddit=funny
+url=http://www.amazingsuperpowers.com/comics/2013-08-30-Chicken.png
+comments=http://www.reddit.com/r/funny/comments/1pcqtv/jump_the_stairs/
+numComments=32
 
-score=35
-title=(Progressive) Brian Eno - An Ending (Ascent) (Leama &amp; Moor Remix) [2004]
-subReddit=
-url=http://www.youtube.com/watch?v=iyXxwgUStY8
-comments=http://www.reddit.com/r/trance/comments/1ownth/progressive_brian_eno_an_ending_ascent_leama_moor/
-numComments=10
+score=2144
+title=The ACTUAL CORRECT way to eat a pomegranate, as brought to you by this Middle Eastern guy.
+subReddit=videos
+url=https://www.youtube.com/watch?v=GCkDLLxUbaE
+comments=http://www.reddit.com/r/videos/comments/1pd7eh/the_actual_correct_way_to_eat_a_pomegranate_as/
+numComments=562
 
-score=34
-title=Markus Schulz Marathon Set at Stereo Montreal - 14th of October (Part 1)
-subReddit=
-url=https://soundcloud.com/markusschulz/stereomarathon-part1
-comments=http://www.reddit.com/r/trance/comments/1p0ogz/markus_schulz_marathon_set_at_stereo_montreal/
-numComments=23
+score=2125
+title=Probably the best costume of my life!
+subReddit=Blink182
+url=http://i.imgur.com/h98ZKUq.jpg
+comments=http://www.reddit.com/r/Blink182/comments/1pcdjh/probably_the_best_costume_of_my_life/
+numComments=114
 
-score=29
-title=Eco - A Cry To The Moon (Original Mix) [2013]
-subReddit=
-url=https://www.youtube.com/watch?v=yhTuDYUgVg8
-comments=http://www.reddit.com/r/trance/comments/1oyso6/eco_a_cry_to_the_moon_original_mix_2013/
-numComments=2
+score=2112
+title=I broke free from my conservative Muslim parents and had my first strip of bacon today
+subReddit=reactiongifs
+url=http://imgur.com/n6iaQXK
+comments=http://www.reddit.com/r/reactiongifs/comments/1pcrnb/i_broke_free_from_my_conservative_muslim_parents/
+numComments=283
 
-score=29
-title=Tidy's beautiful response to the djmag list. much respect for this guy.
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1ot6bg/tidys_beautiful_response_to_the_djmag_list_much/
-comments=http://www.reddit.com/r/trance/comments/1ot6bg/tidys_beautiful_response_to_the_djmag_list_much/
-numComments=21
+score=2101
+title=Now I remember why I stopped wearing this shirt...
+subReddit=funny
+url=http://imgur.com/gallery/L5XYGPG
+comments=http://www.reddit.com/r/funny/comments/1pcpba/now_i_remember_why_i_stopped_wearing_this_shirt/
+numComments=158
 
-score=28
-title=Solarstone pres. Pure Trance 2: Mixed by Solarstone + Giuseppe Ottaviani (Official Trailer)
-subReddit=
-url=https://www.youtube.com/watch?v=t-EshSPzvq0
-comments=http://www.reddit.com/r/trance/comments/1p4g8z/solarstone_pres_pure_trance_2_mixed_by_solarstone/
+score=2076
+title=My thirteen-year-old brother wanted to be Kip from Napoleon Dynamite for Halloween. Nailed it.
+subReddit=pics
+url=http://i.imgur.com/dAWMPfL.jpg
+comments=http://www.reddit.com/r/pics/comments/1pcmrg/my_thirteenyearold_brother_wanted_to_be_kip_from/
+numComments=79
+
+score=2067
+title=My girlfriend said she was going as a cat this Halloween. This was the only logical response.
+subReddit=funny
+url=http://i.imgur.com/3hzCdDC.jpg
+comments=http://www.reddit.com/r/funny/comments/1pcnct/my_girlfriend_said_she_was_going_as_a_cat_this/
+numComments=209
+
+score=2058
+title=I've found what's sure to be reddit's next favorite meme...
+subReddit=AdviceAnimals
+url=http://i.imgur.com/zRv6uge.png
+comments=http://www.reddit.com/r/AdviceAnimals/comments/1pcqec/ive_found_whats_sure_to_be_reddits_next_favorite/
+numComments=259
+
+score=2053
+title=Why do I always do this?
+subReddit=AdviceAnimals
+url=http://www.livememe.com/u2zfav5.jpg
+comments=http://www.reddit.com/r/AdviceAnimals/comments/1pcvji/why_do_i_always_do_this/
+numComments=121
+
+score=2046
+title=MRW I tried on my new Halloween costume today
+subReddit=reactiongifs
+url=http://i.imgur.com/qX5UigB.gif
+comments=http://www.reddit.com/r/reactiongifs/comments/1pcs9s/mrw_i_tried_on_my_new_halloween_costume_today/
+numComments=24
+
+score=2024
+title=Was contemplating buying a horse mask, I'm sold
+subReddit=funny
+url=http://imgur.com/9Tyf4LG
+comments=http://www.reddit.com/r/funny/comments/1pcu99/was_contemplating_buying_a_horse_mask_im_sold/
+numComments=34
+
+score=1882
+title=She's a brick....house
+subReddit=funny
+url=http://imgur.com/eqZPgix
+comments=http://www.reddit.com/r/funny/comments/1pco41/shes_a_brickhouse/
+numComments=143
+
+score=1874
+title=So these guys have been turning up to soccer matches in europe...
+subReddit=WTF
+url=http://i.imgur.com/CkZHPmx.png
+comments=http://www.reddit.com/r/WTF/comments/1pcj54/so_these_guys_have_been_turning_up_to_soccer/
+numComments=424
+
+score=1857
+title=Parents of reddit, what is one secret that you know about your child that could ruin their life?
+subReddit=AskReddit
+url=http://www.reddit.com/r/AskReddit/comments/1pcmyu/parents_of_reddit_what_is_one_secret_that_you/
+comments=http://www.reddit.com/r/AskReddit/comments/1pcmyu/parents_of_reddit_what_is_one_secret_that_you/
+numComments=4834
+
+score=1856
+title=Destiny's method of protecting yourself from DDoS attacks
+subReddit=leagueoflegends
+url=http://www.reddit.com/r/leagueoflegends/comments/1pcm48/destinys_method_of_protecting_yourself_from_ddos/
+comments=http://www.reddit.com/r/leagueoflegends/comments/1pcm48/destinys_method_of_protecting_yourself_from_ddos/
+numComments=417
+
+score=1723
+title=Saw on Facebook with caption &quot;Don't fall asleep while fingering your girlfriend.&quot; (SFW)
+subReddit=WTF
+url=http://i.imgur.com/HcDWgqr.jpg
+comments=http://www.reddit.com/r/WTF/comments/1pd0wx/saw_on_facebook_with_caption_dont_fall_asleep/
+numComments=1099
+
+score=1706
+title=I made a sushi costume!
+subReddit=pics
+url=http://imgur.com/a/drOIj
+comments=http://www.reddit.com/r/pics/comments/1pcvh9/i_made_a_sushi_costume/
+numComments=137
+
+score=1700
+title=My wife complained there was no code on the scratch card she was given..
+subReddit=funny
+url=http://imgur.com/c7hKno8
+comments=http://www.reddit.com/r/funny/comments/1pd14u/my_wife_complained_there_was_no_code_on_the/
+numComments=91
+
+score=1679
+title=The four blackest people on the show
+subReddit=thewalkingdead
+url=http://imgur.com/HgoEIgb
+comments=http://www.reddit.com/r/thewalkingdead/comments/1pcsxu/the_four_blackest_people_on_the_show/
+numComments=145
+
+score=1674
+title=One of my favorite moments from Arrested Development
+subReddit=funny
+url=http://i.imgur.com/j8Rluli.jpg
+comments=http://www.reddit.com/r/funny/comments/1pcz81/one_of_my_favorite_moments_from_arrested/
+numComments=31
+
+score=1561
+title=Cheapest 150Mbps broadband in big US cities costs 100% more than overseas
+subReddit=technology
+url=http://arstechnica.com/business/2013/10/cheapest-150mbps-broadband-in-big-us-cities-costs-100-more-than-overseas/
+comments=http://www.reddit.com/r/technology/comments/1pd76y/cheapest_150mbps_broadband_in_big_us_cities_costs/
+numComments=481
+
+score=1535
+title=Windmill on fire.
+subReddit=pics
+url=http://i.imgur.com/AB5jspt.jpg
+comments=http://www.reddit.com/r/pics/comments/1pcn1l/windmill_on_fire/
+numComments=63
+
+score=1533
+title=This needs to stop.
+subReddit=australia
+url=http://i.imgur.com/J80CV6E.jpg
+comments=http://www.reddit.com/r/australia/comments/1pcwj4/this_needs_to_stop/
+numComments=298
+
+score=1469
+title=So my friend carved a Cage o'lantern...
+subReddit=pics
+url=http://i.imgur.com/xlxEjXu.jpg
+comments=http://www.reddit.com/r/pics/comments/1pcrea/so_my_friend_carved_a_cage_olantern/
+numComments=32
+
+score=1426
+title=LEAGUE OF AD CARRIES PART 1; INFOGRAPHS ABOUT ADCS, MECHANICS, TIPS &amp; TRICKS!
+subReddit=leagueoflegends
+url=http://www.reddit.com/r/leagueoflegends/comments/1pd1ug/league_of_ad_carries_part_1_infographs_about_adcs/
+comments=http://www.reddit.com/r/leagueoflegends/comments/1pd1ug/league_of_ad_carries_part_1_infographs_about_adcs/
+numComments=446
+
+score=1353
+title=If only it were this simple. Good ol' Runescape.
+subReddit=gaming
+url=http://imgur.com/DsFS4Yh
+comments=http://www.reddit.com/r/gaming/comments/1pdamh/if_only_it_were_this_simple_good_ol_runescape/
+numComments=108
+
+score=1353
+title=This kid was throwing a tantrum at the mall so his mom locked him in a Hurricane Simulator and turned it on.
+subReddit=pics
+url=http://i.imgur.com/ejUa4zz.jpg
+comments=http://www.reddit.com/r/pics/comments/1pcq54/this_kid_was_throwing_a_tantrum_at_the_mall_so/
+numComments=155
+
+score=1244
+title=Guys understand how awkward it can be sometimes
+subReddit=AdviceAnimals
+url=http://i.imgur.com/nfsnCXZ.jpg
+comments=http://www.reddit.com/r/AdviceAnimals/comments/1pdopz/guys_understand_how_awkward_it_can_be_sometimes/
+numComments=77
+
+score=1164
+title=Even as a 24 year old, I wet the bed.
+subReddit=fffffffuuuuuuuuuuuu
+url=http://i.imgur.com/TpwtzY6.png
+comments=http://www.reddit.com/r/fffffffuuuuuuuuuuuu/comments/1pd1z8/even_as_a_24_year_old_i_wet_the_bed/
+numComments=80
+
+score=958
+title=I Found These Signs On A Server That I Play On.....Made Me Laugh
+subReddit=Minecraft
+url=http://i.imgur.com/hNpbNqT.png
+comments=http://www.reddit.com/r/Minecraft/comments/1pcz67/i_found_these_signs_on_a_server_that_i_play/
+numComments=87
+
+score=890
+title=How I felt as I grew with my Honedge
+subReddit=pokemon
+url=http://imgur.com/8jitLYp
+comments=http://www.reddit.com/r/pokemon/comments/1pdo4x/how_i_felt_as_i_grew_with_my_honedge/
+numComments=86
+
+score=874
+title=Yvonne Strahovski
+subReddit=gentlemanboners
+url=http://i.imgur.com/3qA3ikM.jpg
+comments=http://www.reddit.com/r/gentlemanboners/comments/1pdab0/yvonne_strahovski/
+numComments=14
+
+score=853
+title=Walking around the mall...come across this
+subReddit=funny
+url=http://i.imgur.com/aR9ydsi.jpg
+comments=http://www.reddit.com/r/funny/comments/1pdlk8/walking_around_the_mallcome_across_this/
+numComments=16
+
+score=823
+title=Vermont is designing nation’s first universal health-care system
+subReddit=politics
+url=http://www.providencejournal.com/breaking-news/content/20131027-vermont-is-designing-nations-first-universal-health-care-system.ece
+comments=http://www.reddit.com/r/politics/comments/1pdola/vermont_is_designing_nations_first_universal/
+numComments=154
+
+score=761
+title=&quot;It is one of life's bitterest truths...&quot; -Lemony Snicket [1500 x 1125]
+subReddit=QuotesPorn
+url=http://imgur.com/8st38EM
+comments=http://www.reddit.com/r/QuotesPorn/comments/1pdbe2/it_is_one_of_lifes_bitterest_truths_lemony/
 numComments=9
 
-score=24
-title=Great unpopular tracks from popular artists?
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1p7hn8/great_unpopular_tracks_from_popular_artists/
-comments=http://www.reddit.com/r/trance/comments/1p7hn8/great_unpopular_tracks_from_popular_artists/
-numComments=35
+score=591
+title=Best Pink Fight In History
+subReddit=leagueoflegends
+url=http://www.youtube.com/watch?v=TcgtyyZgZbc
+comments=http://www.reddit.com/r/leagueoflegends/comments/1pdnfx/best_pink_fight_in_history/
+numComments=59
 
-score=24
-title=Alex M.O.R.P.H. feat. Natalie Gioia - Dreams (Original Club Mix) [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=afRc3y14gHc
-comments=http://www.reddit.com/r/trance/comments/1p64y0/alex_morph_feat_natalie_gioia_dreams_original/
-numComments=4
+score=507
+title=Trying to watch the news about the storm to end all storms but I can't because the massive amount of sunlight currently streaming through the window is creating a glare on the screen.
+subReddit=britishproblems
+url=http://www.reddit.com/r/britishproblems/comments/1pdk1p/trying_to_watch_the_news_about_the_storm_to_end/
+comments=http://www.reddit.com/r/britishproblems/comments/1pdk1p/trying_to_watch_the_news_about_the_storm_to_end/
+numComments=47
 
-score=20
-title=Can anyone enlighten me about Armin Only?
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1p820u/can_anyone_enlighten_me_about_armin_only/
-comments=http://www.reddit.com/r/trance/comments/1p820u/can_anyone_enlighten_me_about_armin_only/
-numComments=46
+score=481
+title=I spectated a friend, when suddenly...
+subReddit=leagueoflegends
+url=http://www.reddit.com/r/leagueoflegends/comments/1pdo5d/i_spectated_a_friend_when_suddenly/
+comments=http://www.reddit.com/r/leagueoflegends/comments/1pdo5d/i_spectated_a_friend_when_suddenly/
+numComments=160
 
-score=18
-title=Jochen Miller - Face Value
-subReddit=
-url=http://www.youtube.com/watch?v=c0N-YsLawpg
-comments=http://www.reddit.com/r/trance/comments/1ozh7q/jochen_miller_face_value/
-numComments=1
+score=472
+title=Some rock solid advice on showing a girl that you like her
+subReddit=AdviceAnimals
+url=http://i.imgur.com/kwAyK7Q.png
+comments=http://www.reddit.com/r/AdviceAnimals/comments/1pdl10/some_rock_solid_advice_on_showing_a_girl_that_you/
+numComments=23
 
-score=16
-title=Armin van Buuren ft. Miri Ben-Ari -- Intense (Andrew Rayel Aether Mix)
-subReddit=
-url=http://youtu.be/1oeZifgMGec
-comments=http://www.reddit.com/r/trance/comments/1p7er4/armin_van_buuren_ft_miri_benari_intense_andrew/
-numComments=5
-
-score=16
-title=Eco - Alonism (Original Mix) [2013]
-subReddit=
-url=http://www.youtube.com/watch?feature=player_detailpage&amp;v=q9GJVzaOtPo#t=5
-comments=http://www.reddit.com/r/trance/comments/1owii5/eco_alonism_original_mix_2013/
-numComments=4
-
-score=15
-title=Joshua Ollerton - Benihime / Solstice EP (2013): my label's 4th release, two awesome progressive trance tunes
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1owkt1/joshua_ollerton_benihime_solstice_ep_2013_my/
-comments=http://www.reddit.com/r/trance/comments/1owkt1/joshua_ollerton_benihime_solstice_ep_2013_my/
-numComments=2
-
-score=14
-title=Sergey Shabanov - Other Point (Original Mix) [2013]
-subReddit=
-url=https://www.youtube.com/watch?v=38gdw6dmDhg
-comments=http://www.reddit.com/r/trance/comments/1pb0no/sergey_shabanov_other_point_original_mix_2013/
-numComments=0
-
-score=14
-title=Boom Jinx &amp; Daniel Kandi - Azzura (Original Mix) [2012]
-subReddit=
-url=http://www.youtube.com/watch?v=sC4bOVy2yZA
-comments=http://www.reddit.com/r/trance/comments/1papps/boom_jinx_daniel_kandi_azzura_original_mix_2012/
-numComments=0
-
-score=14
-title=West (aka Tiesto) &amp; Storm - Porpoise [1995]
-subReddit=
-url=https://www.youtube.com/watch?v=dzbSolqoQVs
-comments=http://www.reddit.com/r/trance/comments/1ozjhn/west_aka_tiesto_storm_porpoise_1995/
-numComments=0
-
-score=14
-title=RAM - Sledgehammer (Allen &amp; Envy Remix) [TBA]
-subReddit=
-url=https://soundcloud.com/allenandenvy/ram-sledgehammer-allen-envy
-comments=http://www.reddit.com/r/trance/comments/1ow9l9/ram_sledgehammer_allen_envy_remix_tba/
-numComments=2
-
-score=14
-title=http://www.reddit.com/r/trance's Album of the Week #48. Earth Nation ‎– Terra Incognita
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1ovbdc/rtrances_album_of_the_week_48_earth_nation_terra/
-comments=http://www.reddit.com/r/trance/comments/1ovbdc/rtrances_album_of_the_week_48_earth_nation_terra/
-numComments=6
-
-score=14
-title=Weekly Discussion Thread 19-Oct-2013
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1orms9/weekly_discussion_thread_19oct2013/
-comments=http://www.reddit.com/r/trance/comments/1orms9/weekly_discussion_thread_19oct2013/
-numComments=41
-
-score=13
-title=Suprano feat. Claire Willis - Holding On (Original Mix) [2013]
-subReddit=
-url=https://www.youtube.com/watch?v=HdC10JE2gbE
-comments=http://www.reddit.com/r/trance/comments/1pb0l6/suprano_feat_claire_willis_holding_on_original/
-numComments=0
-
-score=13
-title=Jorn van Deynhoven - Fastlane (Original Mix) [2009]
-subReddit=
-url=http://www.youtube.com/watch?v=JPUu-p4JY5s
-comments=http://www.reddit.com/r/trance/comments/1p2p1v/jorn_van_deynhoven_fastlane_original_mix_2009/
-numComments=4
-
-score=13
-title=Flutlicht - Icarus (Original Mix)
-subReddit=
-url=http://www.youtube.com/watch?v=NV_qX9EMVFU
-comments=http://www.reddit.com/r/trance/comments/1ou1ya/flutlicht_icarus_original_mix/
-numComments=5
-
-score=12
-title=I played the legendary Circus Afterhours in Montreal this weekend. Here's the last 1h25 of my set recorded live! Enjoy
-subReddit=
-url=http://g-camp.podomatic.com/entry/2013-10-27T11_56_58-07_00
-comments=http://www.reddit.com/r/trance/comments/1pc3nj/i_played_the_legendary_circus_afterhours_in/
-numComments=0
-
-score=12
-title=One of my favorite tracks from Ragnarok Online - Rose of Sharon. Anyone got any recommendations for similar stuff?
-subReddit=
-url=http://www.youtube.com/watch?v=Bu2U9Rlr1-M
-comments=http://www.reddit.com/r/trance/comments/1pav04/one_of_my_favorite_tracks_from_ragnarok_online/
-numComments=5
-
-score=12
-title=Is there such a thing as an AvB ambient mix?
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1ouqvm/is_there_such_a_thing_as_an_avb_ambient_mix/
-comments=http://www.reddit.com/r/trance/comments/1ouqvm/is_there_such_a_thing_as_an_avb_ambient_mix/
-numComments=11
-
-score=11
-title=Trancit Weekly Episode 56
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1p8zkl/trancit_weekly_episode_56/
-comments=http://www.reddit.com/r/trance/comments/1p8zkl/trancit_weekly_episode_56/
-numComments=15
-
-score=11
-title=Pulser - My Religion (Lange Mix) 2003
-subReddit=
-url=http://www.youtube.com/watch?v=Kx88VSHRbZs
-comments=http://www.reddit.com/r/trance/comments/1otc6o/pulser_my_religion_lange_mix_2003/
-numComments=0
-
-score=11
-title=G &amp; M Project - Sunday Afternoon (Nu Nrg Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=04lo7aWbUEQ
-comments=http://www.reddit.com/r/trance/comments/1otazm/g_m_project_sunday_afternoon_nu_nrg_remix/
-numComments=2
-
-score=10
-title=Tyler Sheritt - Petrichord (Alex M.O.R.P.H remix) [2013] Absolutely sick tune
-subReddit=
-url=http://www.youtube.com/watch?v=XUvee6grmZU
-comments=http://www.reddit.com/r/trance/comments/1p9ab7/tyler_sheritt_petrichord_alex_morph_remix_2013/
-numComments=1
-
-score=10
-title=Arctic Moon vs Bryan Kearney vs R.E.M. - Dreamers &amp; Religion (Arctic Moon Mashup)
-subReddit=
-url=http://soundcloud.com/arctic-moon/dreamers-and-religion
-comments=http://www.reddit.com/r/trance/comments/1p2gsm/arctic_moon_vs_bryan_kearney_vs_rem_dreamers/
-numComments=0
-
-score=9
-title=Martin Garrix - Animals (Broning Bootleg) [2013] Full Version. Free download link in comments
-subReddit=
-url=https://soundcloud.com/broning/animals-broning-bootleg
-comments=http://www.reddit.com/r/trance/comments/1p4k20/martin_garrix_animals_broning_bootleg_2013_full/
-numComments=4
-
-score=9
-title=4 Strings - Diving (Alias Remix) First real trance production. Would love sum feedback!
-subReddit=
-url=https://soundcloud.com/sun-theory/diving-alias-remix
-comments=http://www.reddit.com/r/trance/comments/1oy5vp/4_strings_diving_alias_remix_first_real_trance/
-numComments=8
-
-score=8
-title=Weekly Discussion Thread 26-Oct-2013
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1p8ywe/weekly_discussion_thread_26oct2013/
-comments=http://www.reddit.com/r/trance/comments/1p8ywe/weekly_discussion_thread_26oct2013/
-numComments=61
-
-score=8
-title=Solarstone &amp; Giuseppe Ottaviani - Falcons (Falcon Remix) [ASOT 636]
-subReddit=
-url=https://soundcloud.com/falcontrancemusic/solarstone-giuseppe
-comments=http://www.reddit.com/r/trance/comments/1p6h3a/solarstone_giuseppe_ottaviani_falcons_falcon/
-numComments=10
-
-score=8
-title=I'm a late 90s Trance Fan trying to get back into the scene. Please suggest some current DJs that I might enjoy!
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1p5bo0/im_a_late_90s_trance_fan_trying_to_get_back_into/
-comments=http://www.reddit.com/r/trance/comments/1p5bo0/im_a_late_90s_trance_fan_trying_to_get_back_into/
-numComments=56
-
-score=8
-title=Ava Mea - In The End
-subReddit=
-url=http://www.youtube.com/watch?v=5dQSTtdgRM0
-comments=http://www.reddit.com/r/trance/comments/1p3y0s/ava_mea_in_the_end/
-numComments=1
-
-score=8
-title=Solis &amp; Sean Truby vs. Ultimate - Sunglider [2013?]
-subReddit=
-url=http://www.youtube.com/watch?v=vrvKW-AfavM
-comments=http://www.reddit.com/r/trance/comments/1p2gkn/solis_sean_truby_vs_ultimate_sunglider_2013/
-numComments=2
-
-score=8
-title=Nitromethane - Time To Die (Cosmicman Remix) 2003
-subReddit=
-url=http://www.youtube.com/watch?v=WhkMyI6n8Rg
-comments=http://www.reddit.com/r/trance/comments/1otfx0/nitromethane_time_to_die_cosmicman_remix_2003/
-numComments=0
-
-score=7
-title=Agnelli &amp; Nelson - Sleeping In Airports (Steve Allen remix) [2008]
-subReddit=
-url=http://www.youtube.com/watch?v=kq4q-fGdAUo
-comments=http://www.reddit.com/r/trance/comments/1pbnii/agnelli_nelson_sleeping_in_airports_steve_allen/
-numComments=1
-
-score=7
-title=Above &amp; Beyond Group Therapy Google+ Hangout
-subReddit=
-url=http://www.youtube.com/watch?v=4ERYMSP7Wxc
-comments=http://www.reddit.com/r/trance/comments/1p9206/above_beyond_group_therapy_google_hangout/
-numComments=0
-
-score=7
-title=Fatboy Slim - Praise You (Ferry Corsten Bootleg)
-subReddit=
-url=https://soundcloud.com/ferry-corsten/fatboy-slim-praise-you-ferry-corsten-bootleg
-comments=http://www.reddit.com/r/trance/comments/1p5lac/fatboy_slim_praise_you_ferry_corsten_bootleg/
-numComments=10
-
-score=7
-title=Man With No Name - Possessed
-subReddit=
-url=https://www.youtube.com/watch?v=JeaHegur7FE&amp;feature=youtube_gdata_player
-comments=http://www.reddit.com/r/trance/comments/1p24wt/man_with_no_name_possessed/
-numComments=0
-
-score=7
-title=Alphazone - Stay (Hard Trance)
-subReddit=
-url=http://www.youtube.com/watch?v=jlUci_a05u0
-comments=http://www.reddit.com/r/trance/comments/1p0kct/alphazone_stay_hard_trance/
-numComments=0
-
-score=7
-title=Podcasts similar to Jaytech Music?
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1p0efc/podcasts_similar_to_jaytech_music/
-comments=http://www.reddit.com/r/trance/comments/1p0efc/podcasts_similar_to_jaytech_music/
+score=468
+title=I expected this to be much more than a plain old Iron Axe...
+subReddit=skyrim
+url=http://i.imgur.com/Jd00IrV.jpg
+comments=http://www.reddit.com/r/skyrim/comments/1pdhqs/i_expected_this_to_be_much_more_than_a_plain_old/
 numComments=20
 
-score=7
-title=Sasha ‎- Global Underground 009: San Francisco (CD2)
-subReddit=
-url=http://www.youtube.com/watch?v=w4DgPQbIdsY
-comments=http://www.reddit.com/r/trance/comments/1ozgwy/sasha_global_underground_009_san_francisco_cd2/
-numComments=1
-
-score=7
-title=W&amp;W - Plasma
-subReddit=
-url=http://www.youtube.com/watch?v=u9Q-YEDI6SA
-comments=http://www.reddit.com/r/trance/comments/1oytag/ww_plasma/
-numComments=3
-
-score=7
-title=Tomas Heredia &amp; James Dymond - Sao Paulo (Original Mix) [2013]
-subReddit=
-url=https://soundcloud.com/jdymond/tomas-heredia-james-dymond
-comments=http://www.reddit.com/r/trance/comments/1oy5l4/tomas_heredia_james_dymond_sao_paulo_original_mix/
-numComments=1
-
-score=7
-title=Beat Explorers Radio 001 mixed by Myself. Valency is up next week. Download link on Mixcloud.
-subReddit=
-url=http://x.mixcloud.com/Beatexplorers/beat-explorers-radio-001/
-comments=http://www.reddit.com/r/trance/comments/1ovxuf/beat_explorers_radio_001_mixed_by_myself_valency/
-numComments=2
-
-score=7
-title=P.O.S. - Remember (Summer Sun) 2002
-subReddit=
-url=http://www.youtube.com/watch?v=88pPGvGUmpA
-comments=http://www.reddit.com/r/trance/comments/1otgt1/pos_remember_summer_sun_2002/
-numComments=3
-
-score=7
-title=At 1pm PST myself and Valency debut our weekly radio show on Surge Radio, called Beat Explorers Radio. Tune in for some 128-140BPM Madness.
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1osg0c/at_1pm_pst_myself_and_valency_debut_our_weekly/
-comments=http://www.reddit.com/r/trance/comments/1osg0c/at_1pm_pst_myself_and_valency_debut_our_weekly/
-numComments=9
-
-score=6
-title=Allure - Stay Forever (feat. Emma Hewitt)
-subReddit=
-url=http://www.youtube.com/watch?v=4Mz5OZSUnXs
-comments=http://www.reddit.com/r/trance/comments/1pbd6s/allure_stay_forever_feat_emma_hewitt/
-numComments=3
-
-score=6
-title=Dash Berlin feat. Shanokee - Surrender (Arctic Moon Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=PDYc0QNoO3A
-comments=http://www.reddit.com/r/trance/comments/1pamtp/dash_berlin_feat_shanokee_surrender_arctic_moon/
-numComments=0
-
-score=6
-title=[Progressive] Naden - Suspiro (Original Mix) [Available 04.11.13]
-subReddit=
-url=http://www.youtube.com/watch?v=peggEBjpYvA
-comments=http://www.reddit.com/r/trance/comments/1p9br4/progressive_naden_suspiro_original_mix_available/
-numComments=0
-
-score=6
-title=Rank 1 - Awakening (Ferry Corsten Remix) [2002]
-subReddit=
-url=http://www.youtube.com/watch?v=q7FCnzKCNLQ
-comments=http://www.reddit.com/r/trance/comments/1p8ghw/rank_1_awakening_ferry_corsten_remix_2002/
-numComments=0
-
-score=6
-title=Voting for A State of Trance Tune of the Year is now open
-subReddit=
-url=http://www.astateoftrance.com/tune-of-the-year-2013/
-comments=http://www.reddit.com/r/trance/comments/1p50z8/voting_for_a_state_of_trance_tune_of_the_year_is/
-numComments=23
-
-score=6
-title=VillaNaranjos - Granadella (Original Mix)
-subReddit=
-url=http://www.youtube.com/watch?v=ywgeUSj9uWU
-comments=http://www.reddit.com/r/trance/comments/1p4fj6/villanaranjos_granadella_original_mix/
-numComments=1
-
-score=6
-title=Looking for Tracks/Artists that use dark riffs.
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1p332c/looking_for_tracksartists_that_use_dark_riffs/
-comments=http://www.reddit.com/r/trance/comments/1p332c/looking_for_tracksartists_that_use_dark_riffs/
-numComments=9
-
-score=6
-title=David Forbes - Questions Must Be Asked (Kayestone Remix)[2000]
-subReddit=
-url=http://www.youtube.com/watch?v=MIyxRjhKXws
-comments=http://www.reddit.com/r/trance/comments/1p1dwv/david_forbes_questions_must_be_asked_kayestone/
-numComments=1
-
-score=6
-title=Hangout Armin van Buuren with the 7 finalists of the Academy Of Electronic Music
-subReddit=
-url=http://www.youtube.com/attribution_link?u=%2Fwatch%3Fv%3DRenndaPjXrQ%26feature%3Dshare&amp;a=6jUqP5RPuGG7rBkuB3fn3A
-comments=http://www.reddit.com/r/trance/comments/1oz97i/hangout_armin_van_buuren_with_the_7_finalists_of/
-numComments=0
-
-score=6
-title=Sophie Sugar - Skyline (Original Mix)
-subReddit=
-url=http://www.youtube.com/watch?v=iKGTWccD788
-comments=http://www.reddit.com/r/trance/comments/1ozhme/sophie_sugar_skyline_original_mix/
-numComments=0
-
-score=6
-title=Rapid Eye - Santa Cruz (Rapid Eye's R.E. Mix) 2004
-subReddit=
-url=http://www.youtube.com/watch?v=7KIT13z84vY
-comments=http://www.reddit.com/r/trance/comments/1owj9k/rapid_eye_santa_cruz_rapid_eyes_re_mix_2004/
-numComments=0
-
-score=6
-title=Rapid Eye - Stealing Beauty (Rapid Eye's R.E.Mix) 2003
-subReddit=
-url=http://www.youtube.com/watch?v=bbhjBQht1VM
-comments=http://www.reddit.com/r/trance/comments/1owj6j/rapid_eye_stealing_beauty_rapid_eyes_remix_2003/
-numComments=1
-
-score=6
-title=Mark Pledger vs Super8 Tab - Worldwide (Original Mix) [2007]
-subReddit=
-url=http://www.youtube.com/watch?v=c593vD1mi_U&amp;hd=1
-comments=http://www.reddit.com/r/trance/comments/1ot7vg/mark_pledger_vs_super8_tab_worldwide_original_mix/
-numComments=0
-
-score=6
-title=Harmonic Rush - Salvia (radio edit) [Monster Digital] [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=B-kXPXjK5jo
-comments=http://www.reddit.com/r/trance/comments/1oshbz/harmonic_rush_salvia_radio_edit_monster_digital/
-numComments=2
-
-score=5
-title=Johan de Kock, Stefan Viljoen &amp; Nanje Nowack - Silence (Tommy Johnson Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=1sJes0mO2zw
-comments=http://www.reddit.com/r/trance/comments/1p9rk7/johan_de_kock_stefan_viljoen_nanje_nowack_silence/
-numComments=0
-
-score=5
-title=Orkidea &amp; Solarstone - Slowmotion II (Tempo Giusto Remix) [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=y3yemJu-VHk
-comments=http://www.reddit.com/r/trance/comments/1p8yio/orkidea_solarstone_slowmotion_ii_tempo_giusto/
-numComments=0
-
-score=5
-title=Aeden - Elements (Original Mix) [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=zT5z8onYKIU
-comments=http://www.reddit.com/r/trance/comments/1p7i8r/aeden_elements_original_mix_2013/
-numComments=1
-
-score=5
-title=Albert Vorne - Ares (Mac Zimms Remix) [2007]
-subReddit=
-url=http://www.youtube.com/watch?v=lAMued-n_Sg
-comments=http://www.reddit.com/r/trance/comments/1p7kmb/albert_vorne_ares_mac_zimms_remix_2007/
-numComments=0
-
-score=5
-title=Neal Scarbourough &amp; Gary Maguire - As You Are (Allen &amp; Envy Remix) [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=3oKjCqqfh3U
-comments=http://www.reddit.com/r/trance/comments/1p2eo1/neal_scarbourough_gary_maguire_as_you_are_allen/
-numComments=0
-
-score=5
-title=Art Of Trance - Octopus (Original Mix)
-subReddit=
-url=https://www.youtube.com/watch?v=PSirswg4dzE
-comments=http://www.reddit.com/r/trance/comments/1p1clz/art_of_trance_octopus_original_mix/
-numComments=0
-
-score=5
-title=Adam Dived - Beach Comber (Atlantis Remix)[1999]
-subReddit=
-url=http://www.youtube.com/watch?v=WCpbpqVyR78
-comments=http://www.reddit.com/r/trance/comments/1p1e96/adam_dived_beach_comber_atlantis_remix1999/
-numComments=0
-
-score=5
-title=Man With No Name - Moment Of Truth
-subReddit=
-url=http://www.youtube.com/watch?v=3kbDtM3Y_WA
-comments=http://www.reddit.com/r/trance/comments/1p10de/man_with_no_name_moment_of_truth/
-numComments=0
-
-score=5
-title=Legend B - Lost In Love (DJ Taucher Remix) [1999]
-subReddit=
-url=http://www.youtube.com/watch?v=9ONxUOcGz-Q
-comments=http://www.reddit.com/r/trance/comments/1ovgqe/legend_b_lost_in_love_dj_taucher_remix_1999/
-numComments=0
-
-score=5
-title=Aalto - Liquid Sweep (Super8 Remix) 2002
-subReddit=
-url=http://www.youtube.com/watch?v=W0gza48H0vA
-comments=http://www.reddit.com/r/trance/comments/1ovlt7/aalto_liquid_sweep_super8_remix_2002/
-numComments=0
-
-score=5
-title=Perry O'Neil Mixes!
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1otrw8/perry_oneil_mixes/
-comments=http://www.reddit.com/r/trance/comments/1otrw8/perry_oneil_mixes/
-numComments=1
-
-score=5
-title=GrotesQue Live broadcast on AH.fm going on right now!
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1osi9r/grotesque_live_broadcast_on_ahfm_going_on_right/
-comments=http://www.reddit.com/r/trance/comments/1osi9r/grotesque_live_broadcast_on_ahfm_going_on_right/
-numComments=1
-
-score=5
-title=Peter Plaznik pres. Chemical Content 1 - The Swamp (Radio Edit)
-subReddit=
-url=https://www.youtube.com/watch?v=XywB0bR2jII
-comments=http://www.reddit.com/r/trance/comments/1osmwq/peter_plaznik_pres_chemical_content_1_the_swamp/
-numComments=3
-
-score=4
-title=Gaia Vs. Shogun - J'ai Envie De Skyfire (Marcus Van God Mashup)
-subReddit=
-url=http://www.youtube.com/attribution_link?u=%2Fwatch%3Fv%3DPlI-a33MxKc%26feature%3Dshare&amp;a=wx7JBD_vywNOdIsmPuZ9eg
-comments=http://www.reddit.com/r/trance/comments/1p9cax/gaia_vs_shogun_jai_envie_de_skyfire_marcus_van/
-numComments=0
-
-score=4
-title=John O'Callaghan featuring Erica Curran - I Believe (Giuseppe Ottaviani Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=HKiGPFFGWUg
-comments=http://www.reddit.com/r/trance/comments/1p90zu/john_ocallaghan_featuring_erica_curran_i_believe/
-numComments=0
-
-score=4
-title=John Newall - Now &amp; Then (original mix) [Monster Digital] [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=VA8w1e0v9m0
-comments=http://www.reddit.com/r/trance/comments/1p881y/john_newall_now_then_original_mix_monster_digital/
-numComments=0
-
-score=4
-title=Aeden - Elements (TrancEye remix) [Pulsar Recordings] [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=OC__I9FD_bM
-comments=http://www.reddit.com/r/trance/comments/1p87sb/aeden_elements_tranceye_remix_pulsar_recordings/
-numComments=0
-
-score=4
-title=Shakta - Lepton Head (Astrix Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=eRAiTEcBzkI
-comments=http://www.reddit.com/r/trance/comments/1ozdoo/shakta_lepton_head_astrix_remix/
-numComments=0
-
-score=4
-title=Armin van Buuren feat. Cathy Burton - I Surrender (Sebastian Brandt Remix) [2011]
-subReddit=
-url=http://www.youtube.com/watch?v=sXHdNnBwyjo
-comments=http://www.reddit.com/r/trance/comments/1oyp32/armin_van_buuren_feat_cathy_burton_i_surrender/
-numComments=0
-
-score=4
-title=Jon O'Bir feat. Fisher - Found A Way (Joint Operations Centre Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=iGLfEPwY4FY
-comments=http://www.reddit.com/r/trance/comments/1oxz2s/jon_obir_feat_fisher_found_a_way_joint_operations/
-numComments=0
-
-score=3
-title=Dario G - Heaven Is Closer (FEELS LIKE HEAVEN) (Ralphie B vocal edit) [2002]
-subReddit=
-url=http://www.youtube.com/watch?v=svJIAAN08E4
-comments=http://www.reddit.com/r/trance/comments/1pbn4h/dario_g_heaven_is_closer_feels_like_heaven/
-numComments=0
-
-score=3
-title=Psychedelic Chill Music - Atomic Chamber - Pablo Arias
-subReddit=
-url=https://soundcloud.com/pablo_arias/atomic-chamber
-comments=http://www.reddit.com/r/trance/comments/1pb4f9/psychedelic_chill_music_atomic_chamber_pablo_arias/
-numComments=1
-
-score=3
-title=Ohmna - People Get Lost
-subReddit=
-url=http://www.youtube.com/watch?v=enoGwz0OTEY
-comments=http://www.reddit.com/r/trance/comments/1pasfy/ohmna_people_get_lost/
-numComments=1
-
-score=3
-title=Alex M.O.R.P.H. feat. Ana Criado - Sunset Boulevard (Daniel Kandi Remix) [2010]
-subReddit=
-url=http://www.youtube.com/watch?v=Bfap72xuFpk
-comments=http://www.reddit.com/r/trance/comments/1pabb5/alex_morph_feat_ana_criado_sunset_boulevard/
-numComments=0
-
-score=3
-title=[Progressive] Airwave presents Lolo - Extended Horizon [2003]
-subReddit=
-url=http://www.youtube.com/watch?v=5KPEfv6M4E0
-comments=http://www.reddit.com/r/trance/comments/1p9aq3/progressive_airwave_presents_lolo_extended/
-numComments=0
-
-score=3
-title=This is pre-Astral Projection, SFX - Monster Mania (Monster Mix) [1991]
-subReddit=
-url=http://www.youtube.com/watch?v=N1Njixd-gts
-comments=http://www.reddit.com/r/trance/comments/1p71q0/this_is_preastral_projection_sfx_monster_mania/
-numComments=2
-
-score=3
-title=Ayumi Hamasaki - Boys and Girls (Push 12inch Mix) [2002]
-subReddit=
-url=http://www.youtube.com/watch?v=iwGU1rbrGYY
-comments=http://www.reddit.com/r/trance/comments/1p5ky3/ayumi_hamasaki_boys_and_girls_push_12inch_mix_2002/
-numComments=0
-
-score=3
-title=Gal Abutbul - Serenity (Original Mix) [Available 11.11.13]
-subReddit=
-url=http://www.youtube.com/watch?v=R1wzMj-3SP4
-comments=http://www.reddit.com/r/trance/comments/1p4qlz/gal_abutbul_serenity_original_mix_available_111113/
-numComments=1
-
-score=3
-title=Anybody going to Aly &amp; Fila this Friday in NYC?
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1p49ec/anybody_going_to_aly_fila_this_friday_in_nyc/
-comments=http://www.reddit.com/r/trance/comments/1p49ec/anybody_going_to_aly_fila_this_friday_in_nyc/
-numComments=11
-
-score=3
-title=Fluid in Motion - Soul Dimension [2005]
-subReddit=
-url=http://www.youtube.com/watch?v=KYS0go9EoQA
-comments=http://www.reddit.com/r/trance/comments/1p3wo2/fluid_in_motion_soul_dimension_2005/
-numComments=0
-
-score=3
-title=Infernal Machine - Lion King (Man With No Name Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=tbCAwSmtKE4
-comments=http://www.reddit.com/r/trance/comments/1p3lst/infernal_machine_lion_king_man_with_no_name_remix/
-numComments=0
-
-score=3
-title=Man With No Name - Parallel Universe [1998]
-subReddit=
-url=http://www.youtube.com/watch?v=F38E9q0p3yQ
-comments=http://www.reddit.com/r/trance/comments/1p2xwh/man_with_no_name_parallel_universe_1998/
-numComments=0
-
-score=3
-title=Treasure Fingers - It's Love (Kinder King Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=iW4GiTfY1g4
-comments=http://www.reddit.com/r/trance/comments/1p2pcq/treasure_fingers_its_love_kinder_king_remix/
-numComments=0
-
-score=3
-title=Trouser Enthusiasts - Sweet Release (Yellowstone Remix)[1999]
-subReddit=
-url=http://www.youtube.com/watch?v=O_Bs1RpLsLU
-comments=http://www.reddit.com/r/trance/comments/1p1dyf/trouser_enthusiasts_sweet_release_yellowstone/
-numComments=0
-
-score=3
-title=Man With No Name - Low Commotion
-subReddit=
-url=http://www.youtube.com/watch?v=LZajr7paeR8
-comments=http://www.reddit.com/r/trance/comments/1p12h8/man_with_no_name_low_commotion/
-numComments=0
-
-score=3
-title=[Psy] Man Machine - Seventh
-subReddit=
-url=http://www.youtube.com/watch?v=nJjEFzlStcA
-comments=http://www.reddit.com/r/trance/comments/1p0u79/psy_man_machine_seventh/
-numComments=0
-
-score=3
-title=[Uplifting] Ahmed Romel &amp; Tonny Nesse - Alva (Original Mix) [2013]
-subReddit=
-url=https://www.youtube.com/watch?v=R0we9wparVU
-comments=http://www.reddit.com/r/trance/comments/1ow0qj/uplifting_ahmed_romel_tonny_nesse_alva_original/
-numComments=0
-
-score=3
-title=Scott Bond - BBC Radio 1 Essential mix 1999 Rebooted
-subReddit=
-url=https://soundcloud.com/scott-bond/scott-bond-bbc-radio-1
-comments=http://www.reddit.com/r/trance/comments/1osc79/scott_bond_bbc_radio_1_essential_mix_1999_rebooted/
-numComments=1
-
-score=2
-title=Markus Schulz - First Time (Funabashi Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=LyndQncxkLw
-comments=http://www.reddit.com/r/trance/comments/1pcgh6/markus_schulz_first_time_funabashi_remix/
-numComments=0
-
-score=2
-title=Dreamcatchers - Twister (Riva aka Chocolate Puma Remix) [2002]
-subReddit=
-url=http://www.youtube.com/watch?v=Lu0OhX431CQ
-comments=http://www.reddit.com/r/trance/comments/1paxxm/dreamcatchers_twister_riva_aka_chocolate_puma/
-numComments=3
-
-score=2
-title=Coming Soon - I Only Smoke (Original Mix) [2012]
-subReddit=
-url=http://www.youtube.com/watch?v=qzZnQ0ITKp8
-comments=http://www.reddit.com/r/trance/comments/1paq6n/coming_soon_i_only_smoke_original_mix_2012/
-numComments=0
-
-score=2
-title=Nickson vs Haak - Untitled (Unreleased) [2003/2004]
-subReddit=
-url=https://soundcloud.com/robertnickson/nickson-vs-haak-untitled
-comments=http://www.reddit.com/r/trance/comments/1pane2/nickson_vs_haak_untitled_unreleased_20032004/
-numComments=0
-
-score=2
-title=[Progressive] Naden - Haunted Skies (Original Mix) [Available 04.11.13]
-subReddit=
-url=http://www.youtube.com/watch?v=dBRlgUhnzuI
-comments=http://www.reddit.com/r/trance/comments/1p9byx/progressive_naden_haunted_skies_original_mix/
-numComments=0
-
-score=2
-title=Aknael &amp; Bekeela feat. Jane Maximova - Your Love (Original Mix) [2012]
-subReddit=
-url=http://www.youtube.com/watch?v=L7q_i5yN0Q0
-comments=http://www.reddit.com/r/trance/comments/1p8z4b/aknael_bekeela_feat_jane_maximova_your_love/
-numComments=0
-
-score=2
-title=Armin van Buuren - Live @ Amsterdam Music Festival 2013 (ADE) [2013.10.19] (stream)
-subReddit=
-url=http://www.youtube.com/watch?v=TgxPqbxjZ7g
-comments=http://www.reddit.com/r/trance/comments/1p8lsh/armin_van_buuren_live_amsterdam_music_festival/
-numComments=0
-
-score=2
-title=Grizli Man - Evolution (Original Mix) [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=klXRuiltlgg
-comments=http://www.reddit.com/r/trance/comments/1p8l4k/grizli_man_evolution_original_mix_2013/
-numComments=0
-
-score=2
-title=Trancetastic Mix 174 Mixed by Kabbage1977... just someone I follow on YouTube
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1p7nhq/trancetastic_mix_174_mixed_by_kabbage1977_just/
-comments=http://www.reddit.com/r/trance/comments/1p7nhq/trancetastic_mix_174_mixed_by_kabbage1977_just/
-numComments=0
-
-score=2
-title=DJ BornA - EOYC 2013 Contest
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1p44js/dj_borna_eoyc_2013_contest/
-comments=http://www.reddit.com/r/trance/comments/1p44js/dj_borna_eoyc_2013_contest/
-numComments=0
-
-score=2
-title=Lyctum - Time Dilation [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=8CUApGGc4XA
-comments=http://www.reddit.com/r/trance/comments/1p423u/lyctum_time_dilation_2013/
-numComments=1
-
-score=2
-title=Paul Rigel - Lublin (Original Mix) [2013] [Uplifting Trance]
-subReddit=
-url=http://www.youtube.com/watch?v=4XiaR2njLuQ
-comments=http://www.reddit.com/r/trance/comments/1p3cb4/paul_rigel_lublin_original_mix_2013_uplifting/
-numComments=0
-
-score=2
-title=X-Vertigo Feat The Belligerents - All To The Good Ghost (Myon &amp; Shane 54 Mashup)
-subReddit=
-url=https://www.youtube.com/watch?v=4UPH3qVAQrw
-comments=http://www.reddit.com/r/trance/comments/1p02ca/xvertigo_feat_the_belligerents_all_to_the_good/
-numComments=1
-
-score=2
-title=Lyctum - Gravity Loss
-subReddit=
-url=https://www.youtube.com/watch?v=N0CnS_SuvOQ&amp;feature=youtube_gdata_player
-comments=http://www.reddit.com/r/trance/comments/1ozif7/lyctum_gravity_loss/
-numComments=1
-
-score=2
-title=Matt Skyer - Canberra (Original Mix)
-subReddit=
-url=http://www.youtube.com/watch?v=ZFJlbGF9TCk
-comments=http://www.reddit.com/r/trance/comments/1ozgyu/matt_skyer_canberra_original_mix/
-numComments=0
-
-score=2
-title=Vincent de Moor - Sunflower (Dabruck Klein Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=Aee1OI4HW00
-comments=http://www.reddit.com/r/trance/comments/1ozgq2/vincent_de_moor_sunflower_dabruck_klein_remix/
-numComments=1
-
-score=2
-title=Need help ID'ing a song.
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1oywrq/need_help_iding_a_song/
-comments=http://www.reddit.com/r/trance/comments/1oywrq/need_help_iding_a_song/
-numComments=8
-
-score=2
-title=Gal Abutbul &amp; Sarah Russell - You Have Realised (Uplifting Remix) [2013]
-subReddit=
-url=http://www.youtube.com/watch?feature=player_detailpage&amp;v=QYdRXc0ykg8#t=15
-comments=http://www.reddit.com/r/trance/comments/1oyvkr/gal_abutbul_sarah_russell_you_have_realised/
-numComments=0
-
-score=2
-title=Snatt &amp; Vix feat. Kainos - In Stillness (Ian Standerwick Remix) [2013]
-subReddit=
-url=http://youtu.be/O3wROkc-T-s?t=7s
-comments=http://www.reddit.com/r/trance/comments/1oyrmt/snatt_vix_feat_kainos_in_stillness_ian/
-numComments=0
-
-score=2
-title=Fabio XB - Go Ahead (original mix) [A State Of Trance] [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=rWzlXNrnLXA
-comments=http://www.reddit.com/r/trance/comments/1oyfpd/fabio_xb_go_ahead_original_mix_a_state_of_trance/
-numComments=0
-
-score=2
-title=Allure - United States Of Euphoria (extended mix) [Black Hole Recordings] [2011]
-subReddit=
-url=http://www.youtube.com/watch?v=9jWsMH-DPro
-comments=http://www.reddit.com/r/trance/comments/1oy27h/allure_united_states_of_euphoria_extended_mix/
-numComments=1
-
-score=2
-title=Darren Porter - Foundry (Original Mix) [2012]
-subReddit=
-url=http://www.youtube.com/watch?v=JekChGcP-Z0
-comments=http://www.reddit.com/r/trance/comments/1oy11s/darren_porter_foundry_original_mix_2012/
-numComments=0
-
-score=2
-title=Audiocells - Side Effect (Original mix) [Silent Shore Records] [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=8LQ-4oERngg
-comments=http://www.reddit.com/r/trance/comments/1oy0pu/audiocells_side_effect_original_mix_silent_shore/
-numComments=0
-
-score=2
-title=Sunset &amp; Myk Bee - Horizon (Original Mix) [2013]
-subReddit=
-url=https://www.youtube.com/watch?v=rfUPbJEkmLQ
-comments=http://www.reddit.com/r/trance/comments/1ox8vs/sunset_myk_bee_horizon_original_mix_2013/
-numComments=0
-
-score=2
-title=Cris Peacock - Andrea (Original Mix) [2013]
-subReddit=
-url=https://www.youtube.com/watch?v=7txxxOyJYjg
-comments=http://www.reddit.com/r/trance/comments/1ox8do/cris_peacock_andrea_original_mix_2013/
-numComments=0
-
-score=2
-title=Avernus - Sirya (Original Mix)
-subReddit=
-url=http://www.youtube.com/attribution_link?a=4knZp48_-QBR0KZsm8XySA&amp;u=%2Fwatch%3Fv%3DkeFbFuhbeMU%26feature%3Dshare
-comments=http://www.reddit.com/r/trance/comments/1owstk/avernus_sirya_original_mix/
-numComments=0
-
-score=2
-title=Photographer vs. Bryan Kearney &amp; Eddie Bitar - This is Wall (Dave Correa Mash) [2013] - Free Download
-subReddit=
-url=https://soundcloud.com/davecorrea/6-photographer-vs-bryan
-comments=http://www.reddit.com/r/trance/comments/1ovz2m/photographer_vs_bryan_kearney_eddie_bitar_this_is/
-numComments=2
-
-score=2
-title=Ruff Driverz - Shame (Matt Darey Remix) 1998
-subReddit=
-url=http://www.youtube.com/watch?v=v67P750tcVE
-comments=http://www.reddit.com/r/trance/comments/1ovmq0/ruff_driverz_shame_matt_darey_remix_1998/
-numComments=0
-
-score=2
-title=Accadia - Blind Visions (Neptune Project's Third Eye Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=bs3I2JX2JeY
-comments=http://www.reddit.com/r/trance/comments/1ovkhm/accadia_blind_visions_neptune_projects_third_eye/
-numComments=0
-
-score=2
-title=Some What Progressive Trance Live Mix 1 (1:27:30)
-subReddit=
-url=http://www.mixcloud.com/jboogie90/somewhatprogressivemix1/
-comments=http://www.reddit.com/r/trance/comments/1ovgg5/some_what_progressive_trance_live_mix_1_12730/
-numComments=7
-
-score=2
-title=The Noble Six - When I'm with You (Original Mix) [2011] [Uplifting Trance]
-subReddit=
-url=http://www.youtube.com/watch?v=Iq8n0uolZrQ
-comments=http://www.reddit.com/r/trance/comments/1ouzwk/the_noble_six_when_im_with_you_original_mix_2011/
-numComments=0
-
-score=2
-title=[Psy] Loud - Next [2008]
-subReddit=
-url=https://www.youtube.com/watch?v=GHb9ckeQdHE&amp;feature=youtube_gdata_player
-comments=http://www.reddit.com/r/trance/comments/1ouro7/psy_loud_next_2008/
-numComments=0
-
-score=2
-title=Nu NRG - Buttefly (Guiseppe Ottaviani Remix) [2011]
-subReddit=
-url=http://www.youtube.com/watch?v=Nw13OKuEpQw
-comments=http://www.reddit.com/r/trance/comments/1otxdy/nu_nrg_buttefly_guiseppe_ottaviani_remix_2011/
-numComments=1
-
-score=1
-title=Something in Between Episode 05
-subReddit=
-url=http://i.mixcloud.com/CEW0wJ
-comments=http://www.reddit.com/r/trance/comments/1p9vb7/something_in_between_episode_05/
-numComments=1
-
-score=1
-title=Max Graham feat. Jessica Jacobs - I Know You're Gone (Original Mix) [2005]
-subReddit=
-url=http://www.youtube.com/watch?v=hvKUs6Qkv08
-comments=http://www.reddit.com/r/trance/comments/1p9umv/max_graham_feat_jessica_jacobs_i_know_youre_gone/
-numComments=1
-
-score=1
-title=Official Tinychat for ABGT050. Come hang and talk about the show! (Starts when this post is 40 minutes old)
-subReddit=
-url=https://tinychat.com/thecozylife
-comments=http://www.reddit.com/r/trance/comments/1p9r8c/official_tinychat_for_abgt050_come_hang_and_talk/
-numComments=0
-
-score=1
-title=Would really appreciate some help finding a Gareth Emery mix that opens with Kyau vs Albert - Always A Fool
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1p9io6/would_really_appreciate_some_help_finding_a/
-comments=http://www.reddit.com/r/trance/comments/1p9io6/would_really_appreciate_some_help_finding_a/
-numComments=4
-
-score=1
-title=Matt Davey - Apocalypse (Matt Skyer Remix) [2012]
-subReddit=
-url=http://www.youtube.com/watch?v=vUx8Iu8uyyg
-comments=http://www.reddit.com/r/trance/comments/1p8ys0/matt_davey_apocalypse_matt_skyer_remix_2012/
-numComments=0
-
-score=1
-title=[Uplifting] Gareth Weston - Oceans Apart [2013]
-subReddit=
-url=https://soundcloud.com/garethwestonmusic/gareth-weston-oceans-apart?utm_source=soundcloud&amp;utm_campaign=share&amp;utm_medium=facebook
-comments=http://www.reddit.com/r/trance/comments/1p50dl/uplifting_gareth_weston_oceans_apart_2013/
-numComments=0
-
-score=1
-title=Equilibrium #12 - Halloween Bangers! by DJ wildrice
-subReddit=
-url=http://www.mixcloud.com/DJwildrice/equilibrium-12-halloween-bangers/
-comments=http://www.reddit.com/r/trance/comments/1p4urv/equilibrium_12_halloween_bangers_by_dj_wildrice/
-numComments=1
-
-score=1
-title=Bakke &amp; Ljungqvist - Fanatic [2005]
-subReddit=
-url=http://www.youtube.com/watch?v=nAVCGHRVT9o
-comments=http://www.reddit.com/r/trance/comments/1p41l5/bakke_ljungqvist_fanatic_2005/
-numComments=1
-
-score=1
-title=ZeeRO - ZeeRO To Hero (Trance/Dubstep)
-subReddit=
-url=https://soundcloud.com/jason-roberts-18/zeero-to-hero
-comments=http://www.reddit.com/r/trance/comments/1p3w5x/zeero_zeero_to_hero_trancedubstep/
-numComments=0
-
-score=1
-title=Raneem &amp; Emdee - Atrameez (Raneem Mix)
-subReddit=
-url=http://www.youtube.com/watch?v=5UC0COv6gSg
-comments=http://www.reddit.com/r/trance/comments/1p178l/raneem_emdee_atrameez_raneem_mix/
-numComments=0
-
-score=1
-title=Looking for Sentence Sessions mix with Hydroid
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1p10zz/looking_for_sentence_sessions_mix_with_hydroid/
-comments=http://www.reddit.com/r/trance/comments/1p10zz/looking_for_sentence_sessions_mix_with_hydroid/
-numComments=0
-
-score=1
-title=Lyctum - Quantum Field [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=jmQxd1gdJj4
-comments=http://www.reddit.com/r/trance/comments/1p0si0/lyctum_quantum_field_2013/
-numComments=0
-
-score=1
-title=Lyctum - Voice Of The Earth
-subReddit=
-url=http://www.youtube.com/watch?v=UCLiKuNUNpw
-comments=http://www.reddit.com/r/trance/comments/1p0pt1/lyctum_voice_of_the_earth/
-numComments=0
-
-score=1
-title=Loud - Station 42
-subReddit=
-url=http://www.youtube.com/watch?v=QA-Fy_nclhQ
-comments=http://www.reddit.com/r/trance/comments/1p0nnz/loud_station_42/
-numComments=0
-
-score=1
-title=Mana - Psionic (Arrakis Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=ZqjRgoANM6c
-comments=http://www.reddit.com/r/trance/comments/1p0l2e/mana_psionic_arrakis_remix/
-numComments=0
-
-score=1
-title=LOUD - Shores of Titan
-subReddit=
-url=http://www.youtube.com/watch?v=WK7QZ429Vsw
-comments=http://www.reddit.com/r/trance/comments/1p0jxs/loud_shores_of_titan/
-numComments=0
-
-score=1
-title=Gareth Emery &amp; Jon O'Bir - Bouncebackability (Mind Remix) [2005]
-subReddit=
-url=http://www.youtube.com/watch?v=5Cht_K_cAzw&amp;feature=share&amp;list=FLR8rwRNrMEwAYLVzhNzhTqQ
-comments=http://www.reddit.com/r/trance/comments/1p0jmd/gareth_emery_jon_obir_bouncebackability_mind/
-numComments=0
-
-score=1
-title=Loud - Solid
-subReddit=
-url=http://www.youtube.com/watch?v=okIEqEjcw-Y
-comments=http://www.reddit.com/r/trance/comments/1p0i0y/loud_solid/
-numComments=1
-
-score=1
-title=Johan Ekman &amp; Tobias Johansson - Eye can (Do It) (original mix) [Redux Recordings] [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=KjJuEXmFeZM
-comments=http://www.reddit.com/r/trance/comments/1p0fm4/johan_ekman_tobias_johansson_eye_can_do_it/
-numComments=0
-
-score=1
-title=ZeeR0 - Death Or Glory (Uplifting Trance) by Me. Please Rate!
-subReddit=
-url=https://soundcloud.com/jason-roberts-18/zeer0-death-or-glory-uplifting
-comments=http://www.reddit.com/r/trance/comments/1p09rv/zeer0_death_or_glory_uplifting_trance_by_me/
-numComments=0
-
-score=1
-title=Vincent De Moor &quot;Orion City&quot; (Original Version)
-subReddit=
-url=http://www.youtube.com/watch?v=lUMJVtmRBq4
-comments=http://www.reddit.com/r/trance/comments/1ozi98/vincent_de_moor_orion_city_original_version/
-numComments=0
-
-score=1
-title=[Trance] Eminence &amp; Alex Farway - Satellite (Original Mix) (+playlist)
-subReddit=
-url=http://www.youtube.com/attribution_link?a=tavBzPQjTzHZejfgoYnPgw&amp;u=%2Fwatch%3Fv%3DP6LrqAXOIlI%26feature%3Dshare%26list%3DUUNqFDjYTexJDET3rPDrmJKg
-comments=http://www.reddit.com/r/trance/comments/1ozg34/trance_eminence_alex_farway_satellite_original/
-numComments=0
-
-score=1
-title=Red Gravity - Momentary 29
-subReddit=
-url=http://www.youtube.com/watch?v=yWwUJVHE5FU&amp;feature=player_embedded
-comments=http://www.reddit.com/r/trance/comments/1oyewp/red_gravity_momentary_29/
-numComments=0
-
-score=1
-title=Bizzare Contact - Run away
-subReddit=
-url=http://www.youtube.com/watch?feature=player_detailpage&amp;v=o4sIsQKe97E
-comments=http://www.reddit.com/r/trance/comments/1oye7w/bizzare_contact_run_away/
-numComments=0
-
-score=1
-title=True Hallucinations 024 @ Dice Radio - Oct 2013 ~ John 00 Fleming Tribute
-subReddit=
-url=https://soundcloud.com/ru-bix_vs_jester/true-hallucinations-024-dice
-comments=http://www.reddit.com/r/trance/comments/1oy85i/true_hallucinations_024_dice_radio_oct_2013_john/
-numComments=0
-
-score=1
-title=Looking for help... can't decide
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1oxwsx/looking_for_help_cant_decide/
-comments=http://www.reddit.com/r/trance/comments/1oxwsx/looking_for_help_cant_decide/
-numComments=6
-
-score=1
-title=St. John vs. Locust - Mind Circles (Original Mix) [2003]
-subReddit=
-url=https://www.youtube.com/watch?v=UZtArubdJpU
-comments=http://www.reddit.com/r/trance/comments/1oxogs/st_john_vs_locust_mind_circles_original_mix_2003/
-numComments=0
-
-score=1
-title=Jase Thirlwall - Thunderflash (Indecent Noise Remix) [MA022] [Available November 4th] [2013]
-subReddit=
-url=http://www.youtube.com/watch?v=bdfgfApCwSo
-comments=http://www.reddit.com/r/trance/comments/1oxg8u/jase_thirlwall_thunderflash_indecent_noise_remix/
-numComments=1
-
-score=1
-title=Fleming &amp; Lawrence - Beyond the Limit (Grains of Sound Remix) [2013]
-subReddit=
-url=https://soundcloud.com/christopherlawrence/fleming-lawrence-beyond-the-limit-grains-of-sound-remix
-comments=http://www.reddit.com/r/trance/comments/1oxg0w/fleming_lawrence_beyond_the_limit_grains_of_sound/
-numComments=0
-
-score=1
-title=Gal Abutbul &amp; Sarah Russell - You Have Realised (Original Mix) [2013]
-subReddit=
-url=http://youtu.be/DhYsXoOAGuU?t=15s
-comments=http://www.reddit.com/r/trance/comments/1ox8oe/gal_abutbul_sarah_russell_you_have_realised/
-numComments=0
-
-score=1
-title=Help finding a song
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1owmlu/help_finding_a_song/
-comments=http://www.reddit.com/r/trance/comments/1owmlu/help_finding_a_song/
-numComments=2
-
-score=1
-title=Rollerball - Albinoni (Above &amp; Beyond Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=xO37J-t593Y
-comments=http://www.reddit.com/r/trance/comments/1owi98/rollerball_albinoni_above_beyond_remix/
-numComments=0
-
-score=1
-title=Slim Colt - Talking About The Sun (Original Mix) [2013]
-subReddit=
-url=https://www.youtube.com/watch?v=mQGh3KxBmIQ
-comments=http://www.reddit.com/r/trance/comments/1ow0og/slim_colt_talking_about_the_sun_original_mix_2013/
-numComments=0
-
-score=1
-title=Andy Elliass vs. Laucco - Lonely Soul (Touchstone Remix) [2013]
-subReddit=
-url=http://youtu.be/ojFmKX0M0yM?t=21s
-comments=http://www.reddit.com/r/trance/comments/1ow0li/andy_elliass_vs_laucco_lonely_soul_touchstone/
-numComments=0
-
-score=1
-title=Counterpoise - One-Way Ticket To St. Petersburg (Original Mix)
-subReddit=
-url=https://soundcloud.com/counterpoise/one-way-ticket-to-st
-comments=http://www.reddit.com/r/trance/comments/1ow0er/counterpoise_oneway_ticket_to_st_petersburg/
-numComments=0
-
-score=1
-title=Max Rise &amp; Roman Messer - The Last Kiss (Original Mix) [2013]
-subReddit=
-url=https://soundcloud.com/romanmesser/max-rise-roman-messer-the-last
-comments=http://www.reddit.com/r/trance/comments/1ovzbe/max_rise_roman_messer_the_last_kiss_original_mix/
-numComments=0
-
-score=1
-title=Loud - Milestone
-subReddit=
-url=https://www.youtube.com/watch?v=RQJUpSo-uUc&amp;feature=youtube_gdata_player
-comments=http://www.reddit.com/r/trance/comments/1ovxbt/loud_milestone/
-numComments=0
-
-score=1
-title=Gareth Emery Feat Mark Frisch - Into The Light (Alex M.O.R.P.H. Remix) 2011
-subReddit=
-url=http://www.youtube.com/watch?v=g0CTiZchQzk
-comments=http://www.reddit.com/r/trance/comments/1ovjzy/gareth_emery_feat_mark_frisch_into_the_light_alex/
-numComments=0
-
-score=1
-title=Element One - International Language (2009/10?)
-subReddit=
-url=http://www.youtube.com/watch?v=Bi50uTj23S8
-comments=http://www.reddit.com/r/trance/comments/1otme2/element_one_international_language_200910/
-numComments=0
-
-score=1
-title=Modulation - Spirits (Cosmicman Remix) 2003
-subReddit=
-url=http://www.youtube.com/watch?v=YtyVTabk4Ko
-comments=http://www.reddit.com/r/trance/comments/1otg1t/modulation_spirits_cosmicman_remix_2003/
-numComments=0
-
-score=1
-title=MK-S vs. Robert Nickson - Fallback (Original Mix) (ASOT022) 2009
-subReddit=
-url=http://www.youtube.com/watch?v=NlJOFTWQktY
-comments=http://www.reddit.com/r/trance/comments/1otbjf/mks_vs_robert_nickson_fallback_original_mix/
-numComments=0
-
-score=1
-title=Envio - Touched By The Sun (Rusch &amp; Elusive Remix)
-subReddit=
-url=http://www.youtube.com/watch?v=lUpk9obw32c
-comments=http://www.reddit.com/r/trance/comments/1otb64/envio_touched_by_the_sun_rusch_elusive_remix/
-numComments=0
-
-score=1
-title=[Mix] Connectivity by Saman Toli | Kyohei Akagawa, Dadem, Andrew Bayer &amp; More
-subReddit=
-url=http://www.youtube.com/watch?v=kpdhdeWUUdA
-comments=http://www.reddit.com/r/trance/comments/1osbsh/mix_connectivity_by_saman_toli_kyohei_akagawa/
-numComments=0
-
-score=0
-title=Beat Explorers Radio 002 mixed by me, Valency - Deliciously deep progressive all up in ya.
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1pci5u/beat_explorers_radio_002_mixed_by_me_valency/
-comments=http://www.reddit.com/r/trance/comments/1pci5u/beat_explorers_radio_002_mixed_by_me_valency/
-numComments=0
-
-score=0
-title=Matt Bukovski - Tesla (Melodic remix)
-subReddit=
-url=http://www.youtube.com/watch?feature=player_detailpage&amp;v=VEKPQaUa9sU#t=9
-comments=http://www.reddit.com/r/trance/comments/1pcp2v/matt_bukovski_tesla_melodic_remix/
-numComments=0
-
-score=0
-title=Evan London - Desire (Oen Bearen's Immortal Tears Remix) [2011]
-subReddit=
-url=http://www.youtube.com/watch?v=2hpXHDnkBlU
-comments=http://www.reddit.com/r/trance/comments/1pcobc/evan_london_desire_oen_bearens_immortal_tears/
-numComments=0
-
-score=0
-title=T2 aka Talla 2XLC - Lost Souls (Retro Club Mix) [2006]
-subReddit=
-url=https://www.youtube.com/watch?v=I4d3ufgyVZk
-comments=http://www.reddit.com/r/trance/comments/1pco5a/t2_aka_talla_2xlc_lost_souls_retro_club_mix_2006/
-numComments=0
-
-score=0
-title=Solarscape - Alive (Ronski Speed With Stoneface &amp; Terminal Dub Mix) [2006]
-subReddit=
-url=https://www.youtube.com/watch?v=2Y6M0UC7b90
-comments=http://www.reddit.com/r/trance/comments/1pcnwn/solarscape_alive_ronski_speed_with_stoneface/
-numComments=0
-
-score=0
-title=York feat. Jennifer Paige - Lost Under The Sun (Thomas Hayes Remix) [Played on ASOT 636]
-subReddit=
-url=http://www.youtube.com/watch?v=dYtpRhK5v0U
-comments=http://www.reddit.com/r/trance/comments/1pcluz/york_feat_jennifer_paige_lost_under_the_sun/
-numComments=0
-
-score=0
-title=Glenn Morrison - Circles
-subReddit=
-url=http://www.youtube.com/watch?v=XHNvqGkx4BU
-comments=http://www.reddit.com/r/trance/comments/1pcijr/glenn_morrison_circles/
-numComments=0
-
-score=0
-title=Armin van Buuren &amp; Orjan Nilsen - Belter (Original Mix) Such a great track
-subReddit=
-url=http://www.youtube.com/watch?v=4zWhvP24xHg
-comments=http://www.reddit.com/r/trance/comments/1paecj/armin_van_buuren_orjan_nilsen_belter_original_mix/
-numComments=0
-
-score=0
-title=Ben Gold - Kinetic (Podcast Rip)
-subReddit=
-url=http://www.youtube.com/attribution_link?u=%2Fwatch%3Fv%3DSPnP_0DazbY%26feature%3Dshare&amp;a=1kTBPUOo-9MwPYbT_jjBCg
-comments=http://www.reddit.com/r/trance/comments/1p7zac/ben_gold_kinetic_podcast_rip/
-numComments=0
-
-score=0
-title=Arty - Flashback
-subReddit=
-url=http://youtu.be/a6gUAz4PDy8
-comments=http://www.reddit.com/r/trance/comments/1p6kz0/arty_flashback/
-numComments=0
-
-score=0
-title=Academia - Trance Odyssey Ep. 71: Trance &amp; Progressive Mix (1hr)
-subReddit=
-url=https://soundcloud.com/academia-1/trance-odyssey-episode-071
-comments=http://www.reddit.com/r/trance/comments/1p2ppq/academia_trance_odyssey_ep_71_trance_progressive/
-numComments=0
-
-score=0
-title=Filo and Peri feat. Eric Lumiere - Anthem (John O'Callaghan Remix) [2007]
-subReddit=
-url=http://www.youtube.com/watch?v=0zjEXEiHUUQ
-comments=http://www.reddit.com/r/trance/comments/1owljm/filo_and_peri_feat_eric_lumiere_anthem_john/
-numComments=2
-
-score=0
-title=Armin Van Buuren &amp; Nervo ft Laura V - Turn This Love Around (Toby Hedges Remix)
-subReddit=
-url=http://soundcloud.com/toby_hedges/armin-van-buuren-nervo-ft
-comments=http://www.reddit.com/r/trance/comments/1ot7qw/armin_van_buuren_nervo_ft_laura_v_turn_this_love/
-numComments=0
-
-score=0
-title=I'm interested in writing trance. What scales, modes, and chords would you use to capture that immersive/atmospheric style?
-subReddit=
-url=http://www.reddit.com/r/trance/comments/1ot74b/im_interested_in_writing_trance_what_scales_modes/
-comments=http://www.reddit.com/r/trance/comments/1ot74b/im_interested_in_writing_trance_what_scales_modes/
-numComments=4
+score=401
+title=Allow us to add a Message to Friend Requests
+subReddit=leagueoflegends
+url=http://www.reddit.com/r/leagueoflegends/comments/1pdgzp/allow_us_to_add_a_message_to_friend_requests/
+comments=http://www.reddit.com/r/leagueoflegends/comments/1pdgzp/allow_us_to_add_a_message_to_friend_requests/
+numComments=79
+
+score=389
+title=Clever Bastard
+subReddit=cats
+url=http://imgur.com/VB1YJ4D
+comments=http://www.reddit.com/r/cats/comments/1pdjbw/clever_bastard/
+numComments=10
+
+score=386
+title=guys, i think we stuffed up
+subReddit=pokemon
+url=http://mega-absol.tumblr.com/post/65152270329/oh-my-god-it-all-makes-so-much-sense-now
+comments=http://www.reddit.com/r/pokemon/comments/1pdivk/guys_i_think_we_stuffed_up/
+numComments=58
+
+score=371
+title=Balancing laughing baby
+subReddit=funny
+url=http://imgur.com/gallery/0CN1YMa
+comments=http://www.reddit.com/r/funny/comments/1pdjhz/balancing_laughing_baby/
+numComments=19
+
+score=359
+title=Hacking vs. Tracking
+subReddit=conspiracy
+url=http://i.imgur.com/mDHVTkK.jpg
+comments=http://www.reddit.com/r/conspiracy/comments/1pdp59/hacking_vs_tracking/
+numComments=12
+
+score=281
+title=A Texas hunting club is auctioning a permit to hunt and kill an endangered black rhino
+subReddit=news
+url=http://abcnews.go.com/US/hunting-club-auctioning-off-permit-hunt-endangered-rhino/story?id=20697931
+comments=http://www.reddit.com/r/news/comments/1pdp5t/a_texas_hunting_club_is_auctioning_a_permit_to/
+numComments=86
+
+score=265
+title=Open Note to the Community: There Are Human Beings Behind Those Summoner Names. Respect Them.
+subReddit=leagueoflegends
+url=http://www.reddit.com/r/leagueoflegends/comments/1pdmaw/open_note_to_the_community_there_are_human_beings/
+comments=http://www.reddit.com/r/leagueoflegends/comments/1pdmaw/open_note_to_the_community_there_are_human_beings/
+numComments=247
+
+score=237
+title=What really happened to the finger.
+subReddit=WTF
+url=http://i.imgur.com/yApaQ95.jpg?1
+comments=http://www.reddit.com/r/WTF/comments/1pdp7x/what_really_happened_to_the_finger/
+numComments=13
 

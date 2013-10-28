@@ -171,7 +171,7 @@ public class Downloader
 			{
 				System.out.println("Searched (" + (runTimes + 1) + ") times");
 				System.out.println(Converter.msToMin(totalTime - currentRunTimeMS) + " mins remain");
-				Clock.printTime();
+				System.out.println(Clock.printTime());
 
 				isFirstPage = true;
 				int added = 0;

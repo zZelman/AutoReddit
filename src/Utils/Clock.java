@@ -5,7 +5,7 @@ import java.util.Calendar;
 public class Clock
 {
 
-	public static void printTime()
+	public static String printTime()
 	{
 		String hour 	= String.valueOf(Calendar.getInstance().get(Calendar.HOUR));
 		String min		= String.valueOf(Calendar.getInstance().get(Calendar.MINUTE));
@@ -32,7 +32,7 @@ public class Clock
 			seconds = "0" + seconds;
 		}
 
-		System.out.println("clock: " + hour + ":" + min + ":" + seconds + " " + am_pm);
+		return hour + ":" + min + ":" + seconds + " " + am_pm;
 	}
 
 }

@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class ConfigParser
 {
 	// config file name
-	public static final String configFileName = "bot.config";
+	public static String configFileName;
 
 	// flags from the config file
 	public static final String redditUrl 		= "reddit url=";

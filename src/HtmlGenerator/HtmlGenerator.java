@@ -17,7 +17,7 @@ public class HtmlGenerator
 {
 	private ArrayList<Post> sortedPosts;
 
-	public static final String generatedHtmlName = "AutoReddit.html";
+	public static final String generatedHtmlName = "AutoReddit";
 	public static final String tabLength = "    ";
 
 	HtmlGenerator(ArrayList<Post> sortedPosts)
@@ -40,7 +40,7 @@ public class HtmlGenerator
 
 	private void generateHtml()
 	{
-		File f = new File(generatedHtmlName);
+		File f = new File(generatedHtmlName + " " +  Clock.printTime() + ".html");
 		if (!f.exists())
 		{
 			try
@@ -49,14 +49,14 @@ public class HtmlGenerator
 			}
 			catch (IOException e)
 			{
-				System.out.println("Could not create: " + generatedHtmlName);
+				System.out.println("Could not create: " + generatedHtmlName + " " +  Clock.printTime() + ".html");
 				return;
 			}
 		}
 		PrintWriter out = null;
 		try
 		{
-			out = new PrintWriter(generatedHtmlName);
+			out = new PrintWriter(generatedHtmlName + " " +  Clock.printTime() + ".html");
 		}
 		catch (FileNotFoundException e) {}
 
@@ -79,8 +79,8 @@ public class HtmlGenerator
 		out.println("<html>");
 		out.println(tabLength + "<body>");
 		out.println();
-		out.println(tabLength + tabLength + "<h1>AutoReddit</h1>");
-		out.println(tabLength + tabLength + "<h3>" + Downloader.requestedURL + "</h3>");
+		out.println(tabLength + tabLength + "<h1>AutoReddit - " + Clock.printTime() + "</h1>");
+		out.println(tabLength + tabLength + "<h3><a href=\"" + Downloader.requestedURL + "\">" + Downloader.requestedURL + "</a></h3>");
 		out.println();
 		out.println(tabLength + tabLength + "<ol>");
 	}
@@ -211,6 +211,15 @@ public class HtmlGenerator
 
 	public static void main(String[] args)
 	{
+		if (args.length != 1)
+		{
+			System.out.println("No config file specified");
+			System.out.println("usage: java -jar AutoReddit.jar <file name>");
+			return;
+		}
+
+		ConfigParser.configFileName = args[0];
+
 		try
 		{
 			String url = ConfigParser.findURL(ConfigParser.configFileName);
@@ -219,7 +228,7 @@ public class HtmlGenerator
 			int searchNum = ConfigParser.findNumPostAdd(ConfigParser.configFileName);
 
 			System.out.println("Program begins!");
-			Clock.printTime();
+			System.out.println(Clock.printTime());
 			System.out.println();
 
 			new Downloader(url, totalTime, searchInterval, searchNum);
@@ -231,7 +240,7 @@ public class HtmlGenerator
 			System.out.println("Done!");
 
 			System.out.println();
-			Clock.printTime();
+			System.out.println(Clock.printTime());
 			System.out.println("You may now view the posts at any time");
 			System.out.println("Just open \"" + generatedHtmlName + "\" in any browser");
 		}
