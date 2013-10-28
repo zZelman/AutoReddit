@@ -8,7 +8,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-import Parsers.ConfigParser;
+import Utils.Clock;
+import Utils.ConfigParser;
 
 
 // This class produces a html file from the downloaded and sorted posts from Downloader
@@ -133,7 +134,16 @@ public class HtmlGenerator
 
 			for (int i = 0; i < 6; i++)
 			{
-				String line = s.nextLine();
+				String line = null;
+				try
+				{
+					line = s.nextLine();
+				}
+				catch (Exception e)
+				{
+					System.out.print("html file not produced");
+					System.exit(-1);
+				}
 				if (line.contains(Post.scoreFlag))
 				{
 					score = line.substring(Post.scoreFlag.length(), line.length());
@@ -205,9 +215,24 @@ public class HtmlGenerator
 			String url = ConfigParser.findURL(ConfigParser.configFileName);
 			double totalTime = ConfigParser.findTotalTime(ConfigParser.configFileName);
 			double searchInterval = ConfigParser.findSearchInterval(ConfigParser.configFileName);
-			int numPosts = ConfigParser.findNumPostAdd(ConfigParser.configFileName);
+			int searchNum = ConfigParser.findNumPostAdd(ConfigParser.configFileName);
 
-			System.out.println(url + "\n" + totalTime + "\n" + searchInterval + "\n" + numPosts);
+			System.out.println("Program begins!");
+			Clock.printTime();
+			System.out.println();
+
+			new Downloader(url, totalTime, searchInterval, searchNum);
+
+			System.out.print("Beginning HTML generation.... ");
+
+			new HtmlGenerator(Downloader.fileOutputName);
+
+			System.out.println("Done!");
+
+			System.out.println();
+			Clock.printTime();
+			System.out.println("You may now view the posts at any time");
+			System.out.println("Just open \"" + generatedHtmlName + "\" in any browser");
 		}
 		catch (FileNotFoundException e)
 		{
@@ -215,7 +240,6 @@ public class HtmlGenerator
 			System.exit(-1);
 		}
 
-//		new HtmlGenerator(Downloader.Downloader.fileOutputName);
 	}
 
 }
