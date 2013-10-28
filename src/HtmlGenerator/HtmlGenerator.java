@@ -18,6 +18,7 @@ public class HtmlGenerator
 	private ArrayList<Post> sortedPosts;
 
 	public static final String generatedHtmlName = "AutoReddit";
+	public static final String fileType = ".html";
 	public static final String tabLength = "    ";
 
 	HtmlGenerator(ArrayList<Post> sortedPosts)
@@ -40,7 +41,10 @@ public class HtmlGenerator
 
 	private void generateHtml()
 	{
-		File f = new File(generatedHtmlName + " " +  Clock.printTime() + ".html");
+		File f = new File(generatedHtmlName + " ("
+		                  + Downloader.requestedURL.substring(24, Downloader.requestedURL.length() - 1)
+		                  + ")"
+		                  + fileType);
 		if (!f.exists())
 		{
 			try
@@ -49,14 +53,29 @@ public class HtmlGenerator
 			}
 			catch (IOException e)
 			{
-				System.out.println("Could not create: " + generatedHtmlName + " " +  Clock.printTime() + ".html");
-				return;
+				System.out.println("Could not create: \"" + generatedHtmlName + " ("
+				                   + Downloader.requestedURL.substring(24, Downloader.requestedURL.length() - 1)
+				                   + ")"
+				                   + fileType + "\"");
+				System.exit(-1);
 			}
 		}
+		else
+		{
+			File old = new File("(old) " + generatedHtmlName + " ("
+			                    + Downloader.requestedURL.substring(24, Downloader.requestedURL.length() - 1)
+			                    + ")"
+			                    + fileType);
+			f.renameTo(old);
+		}
+
 		PrintWriter out = null;
 		try
 		{
-			out = new PrintWriter(generatedHtmlName + " " +  Clock.printTime() + ".html");
+			out = new PrintWriter(generatedHtmlName + " ("
+			                      + Downloader.requestedURL.substring(24, Downloader.requestedURL.length() - 1)
+			                      + ")"
+			                      + fileType);
 		}
 		catch (FileNotFoundException e) {}
 
@@ -242,7 +261,10 @@ public class HtmlGenerator
 			System.out.println();
 			System.out.println(Clock.printTime());
 			System.out.println("You may now view the posts at any time");
-			System.out.println("Just open \"" + generatedHtmlName + "\" in any browser");
+			System.out.println("Just open \"" + generatedHtmlName + " ("
+			                   + Downloader.requestedURL.substring(24, Downloader.requestedURL.length() - 1)
+			                   + ")"
+			                   + fileType + "\" in any browser");
 		}
 		catch (FileNotFoundException e)
 		{

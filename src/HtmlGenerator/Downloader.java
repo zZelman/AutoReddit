@@ -131,8 +131,8 @@ public class Downloader
 				System.out.println();
 
 //				// debug: save the file
-				PrintWriter out = new PrintWriter("downloaded reddit.html");
-				out.print(htmlString);
+//				PrintWriter out = new PrintWriter("downloaded reddit.html");
+//				out.print(htmlString);
 			}
 			catch (Exception e)
 			{

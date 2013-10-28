@@ -12,8 +12,8 @@ public class Clock
 		String seconds	= String.valueOf(Calendar.getInstance().get(Calendar.SECOND));
 		String am_pm	= null;
 
-		int isAM = Calendar.getInstance().get(Calendar.AM);
-		if (isAM == 1)
+		int isAM = Calendar.getInstance().get(Calendar.AM_PM);
+		if (isAM == Calendar.AM)
 		{
 			am_pm = "AM";
 		}

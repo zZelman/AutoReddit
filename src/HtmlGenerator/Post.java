@@ -78,12 +78,14 @@ public class Post implements Comparable<Post>
 	@Override
 	public String toString()
 	{
-		String score 		= "score      : " + this.score + "\n";
-		String title		= "title      : " + this.title + "\n";
-		String subReddit	= "subReddit  : " + this.subReddit + "\n";
-		String url			= "url        : " + this.url + "\n";
-		String commentsLink = "comments   : " + this.commentsLink + "\n";
-		String numComments 	= "numComments: " + this.numComments + "\n";
+		String seperator = System.getProperty("line.separator");
+
+		String score 		= "score      : " + this.score + seperator;
+		String title		= "title      : " + this.title + seperator;
+		String subReddit	= "subReddit  : " + this.subReddit + seperator;
+		String url			= "url        : " + this.url + seperator;
+		String commentsLink = "comments   : " + this.commentsLink + seperator;
+		String numComments 	= "numComments: " + this.numComments + seperator;
 
 		return score + title + subReddit + url + commentsLink + numComments;
 	}
@@ -91,12 +93,14 @@ public class Post implements Comparable<Post>
 
 	public void writeToFile(PrintWriter out)
 	{
-		String score 		= scoreFlag			+ this.score + "\n";
-		String title		= titleFlag			+ this.title + "\n";
-		String subReddit	= subRedditFlag		+ this.subReddit + "\n";
-		String url			= urlFlag 			+ this.url + "\n";
-		String commentsLink = commentsFlag 		+ this.commentsLink + "\n";
-		String numComments 	= numCommentsFlag 	+ this.numComments + "\n";
+		String seperator = System.getProperty("line.separator");
+
+		String score 		= scoreFlag			+ this.score + seperator;
+		String title		= titleFlag			+ this.title + seperator;
+		String subReddit	= subRedditFlag		+ this.subReddit + seperator;
+		String url			= urlFlag 			+ this.url + seperator;
+		String commentsLink = commentsFlag 		+ this.commentsLink + seperator;
+		String numComments 	= numCommentsFlag 	+ this.numComments + seperator;
 
 		out.println(score + title + subReddit + url + commentsLink + numComments);
 	}
