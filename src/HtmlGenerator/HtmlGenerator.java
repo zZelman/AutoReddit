@@ -80,6 +80,7 @@ public class HtmlGenerator
 		out.println(tabLength + "<body>");
 		out.println();
 		out.println(tabLength + tabLength + "<h1>AutoReddit</h1>");
+		out.println(tabLength + tabLength + "<h3>" + Downloader.requestedURL + "</h3>");
 		out.println();
 		out.println(tabLength + tabLength + "<ol>");
 	}

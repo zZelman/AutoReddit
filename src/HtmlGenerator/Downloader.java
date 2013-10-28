@@ -6,7 +6,6 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Scanner;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.*;
@@ -18,6 +17,9 @@ import Utils.Converter;
 public class Downloader
 {
 	public static final String fileOutputName = "downloaded posts.txt";
+
+	// inital url requested by the user
+	public static String requestedURL;
 
 
 	// * this variable caps the maximum number of network disconnects
@@ -97,6 +99,7 @@ public class Downloader
 	{
 		notSeenPosts 			= new ArrayList<Post>();
 		pageURL 				= url;
+		requestedURL			= url;
 		this.totalTime			= Converter.minToMS(totalTime);
 		this.searchInterval 	= Converter.minToMS(searchInterval);
 		this.searchNum 			= searchNum;
