@@ -1,0 +1,4 @@
+#+TITLE: AutoReddit
+#+AUTHOR: Kyle Avrett
+
+This was my first attempt at writing a bot in college. It parses Reddit periodically and generates HTML output.
